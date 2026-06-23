@@ -1,10 +1,10 @@
 ---
 layout: home
-title: 'CSCI Senior Projects'
+title: CSCI Senior Projects
 hero:
-  name: 'Senior Projects'
+  name: Senior Projects
   text: Computer Science
-  tagline: 'Charleston Southern University'
+  tagline: Charleston Southern University
   image:
     src: '/csu.png'
     alt: CSU
