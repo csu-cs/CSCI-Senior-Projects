@@ -15,3 +15,5 @@
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29290509/3D.Video.Conference.Part.1.-.Andal.Tibayan.pdf)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29290534/3D.Video.Conference.Part.2.-.Andal.Tibayan.pdf)
 - **Abstract**: "3D Video Conferencing is a program designed to utilize two DirectShow compatible web cameras to create a more "immersive" and 3D experience for the party participating in a video conference. The frames from each of the web cameras rapidly interleaving are outputted to the user's screen. Using eDimensional's LCD (Liquid Crystal Display) shutter glasses, the interleaving frames create the illusion of 3D.
+
+## Austin Richards - A Tour of Cryptography 
