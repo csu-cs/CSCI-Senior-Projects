@@ -71,3 +71,4 @@
 
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29292241/Church.App.Part.1.-.Chris.Gilbert.pdf?raw=true)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29292257/Church.App.Part.2.-.Chris.Gilbert.pdf)
+- [**Documentation Part 3**](https://github.com/user-attachments/files/29292370/Church.App.Part.3.-.Chris.Gilbert.pdf)
