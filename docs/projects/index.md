@@ -19,3 +19,7 @@
 ## Austin Richards - A Tour of Cryptography 
 
 - [**Documentation**](https://github.com/user-attachments/files/29290746/A.Tour.of.Cryptography.-.Austin.Richards.pdf)
+
+## Christopher Corbett - Analysis and Design 
+
+- [**Documentation**](https://github.com/user-attachments/files/29290790/Analysis.and.Design.-.Christopher.Corbett.pdf)
