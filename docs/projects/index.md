@@ -33,9 +33,10 @@
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29291420/Ashley.Ward.Part.1.pdf?raw=true)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29291447/Ashley.Ward.Part.2.pdf?raw=true)
 
-## Benji Powell - Senior Portfolio
+## Benji Powell - Senior Portfolio and Clouded Horizons
 
-- [**Documentation**](https://github.com/user-attachments/files/29291519/Benji.Powell.Senior.Portfolio.pdf?raw=true)
+- [**Documentation of Portfolio**](https://github.com/user-attachments/files/29291519/Benji.Powell.Senior.Portfolio.pdf?raw=true)
+- [**Documentation of Clouded Horizons**](https://github.com/user-attachments/files/29295234/Clouded.Horizons.-.Benji.Powell.pdf)
 
 ## Mike Havens - BitMangler 
 
@@ -72,3 +73,32 @@
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29292241/Church.App.Part.1.-.Chris.Gilbert.pdf?raw=true)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29292257/Church.App.Part.2.-.Chris.Gilbert.pdf)
 - [**Documentation Part 3**](https://github.com/user-attachments/files/29292370/Church.App.Part.3.-.Chris.Gilbert.pdf)
+
+## Carla Contreras - Civics Quiz 
+
+- [**Documentation**](https://github.com/user-attachments/files/29295119/Civics.Quiz.-.Carla.Contreras.pdf)
+
+## Andrew Matthews - Client Server Texas Hold'Em
+
+- [**Documentation**](https://github.com/user-attachments/files/29295174/Client.Server.Texas.Hold.Em.-.Andrew.Matthews.pdf)
+
+## Joe Boros - COINS Network Overhaul 
+
+- [**Documentation**](https://github.com/user-attachments/files/29295282/COINS.Network.Overhaul-.Joe.Boros.pdf)
+
+## Derick Beckwith - COINS Senior Project 
+
+- [**Documentation**](https://github.com/user-attachments/files/29295365/COINS.Senior.Project-.Derick.Beckwith.pdf)
+
+## Brown & Harrell - College 4 Less 
+
+- [**Documentation**](https://github.com/user-attachments/files/29295430/College.4.Less.-.Brown.Harrell.pdf)
+
+## Jay Cooke - Course Evaluations 
+
+- [**Documentation**](https://github.com/user-attachments/files/29295479/Course.Evaluations.-.Jay.Cooke.pdf)
+
+## Brian Cowan - Dalek Invaders 
+
+- [**Documentation**](https://github.com/user-attachments/files/29295537/Dalek.Invaders.-.Brian.Cowan.pdf)
+
