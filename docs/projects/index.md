@@ -17,3 +17,5 @@
 - **Abstract**: "3D Video Conferencing is a program designed to utilize two DirectShow compatible web cameras to create a more "immersive" and 3D experience for the party participating in a video conference. The frames from each of the web cameras rapidly interleaving are outputted to the user's screen. Using eDimensional's LCD (Liquid Crystal Display) shutter glasses, the interleaving frames create the illusion of 3D.
 
 ## Austin Richards - A Tour of Cryptography 
+
+- [**Documentation**](https://github.com/user-attachments/files/29290746/A.Tour.of.Cryptography.-.Austin.Richards.pdf)
