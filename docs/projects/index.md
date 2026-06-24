@@ -68,6 +68,10 @@
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29291823/Chris.Nuhn.Senior.Portfolio.Part.2.pdf?raw=true)
 - [**Documentation Part 3**](https://github.com/user-attachments/files/29291852/Chris.Nuhn.Senior.Portfolio.Part.3.pdf?raw=true)
 
+## Chris Nuhn - Data Quality and Zipf's Law
+
+- [**Documentation**](https://github.com/user-attachments/files/29296093/Data.Quality.and.Zipf.s.Law.-.Chris.Nuhn.pdf)
+
 ## Chris Gilbert - Church App Parts 1-3
 
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29292241/Church.App.Part.1.-.Chris.Gilbert.pdf?raw=true)
@@ -102,3 +106,61 @@
 
 - [**Documentation**](https://github.com/user-attachments/files/29295537/Dalek.Invaders.-.Brian.Cowan.pdf)
 
+## Sydney Garling - Danger with Digital Forensics Parts 1-3
+
+- [**Documentation Part 1**](https://github.com/user-attachments/files/29295994/Danger.with.Digital.Forensics.Part.1.-.Garling.pdf)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/29296034/Danger.with.Digital.Forensics.Part.2.-.Garling.pdf)
+- [**Documentation Part 3**](https://github.com/user-attachments/files/29296047/Danger.with.Digital.Forensics.Part.3.-.Garling.pdf)
+
+## Dave Coons - Senior Project Parts 1 and 2 
+
+- [**Documentation Part 1**](https://github.com/user-attachments/files/29296127/Dave.Coons.Senior.Project.Part.1.pdf)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/29296137/Dave.Coons.Senior.Project.Part.2.pdf)
+
+## Wilson Holiday - Desk Lamp and Phone Application 
+
+- [**Documentation**](https://github.com/user-attachments/files/29296184/Desk.Lamp.and.Phone.Application.-.Wilson.Holiday.pdf)
+
+## Daniel Helton - DHTML Inc. Parts 1 and 2 
+
+- [**Documentation Part 1**](https://github.com/user-attachments/files/29296215/DHTML.Inc.Part.1.-.Daniel.Helton.pdf)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/29296230/DHTML.Inc.Part.2.-.Daniel.Helton.pdf)
+
+## Walter Browning - Dream Weaver Parts 1-5
+
+- [**Documentation Part 1**](https://github.com/user-attachments/files/29296269/Dream.Weaver.Part.1-.Walter.Browning.pdf)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/29296284/Dream.Weaver.Part.2-.Walter.Browning.pdf)
+- [**Documentation Part 3**](https://github.com/user-attachments/files/29296299/Dream.Weaver.Part.3-.Walter.Browning.pdf)
+- [**Documentation Part 4**](https://github.com/user-attachments/files/29296319/Dream.Weaver.Part.4-.Walter.Browning.pdf)
+- [**Documentation Part 5**](https://github.com/user-attachments/files/29296336/Dream.Weaver.Part.5-.Walter.Browning.pdf)
+
+## Dru Sepulveda - Parts 1 and 2
+
+- [**Documentation Part 1**](https://github.com/user-attachments/files/29296408/Dru.Sepulveda.Part.1.pdf)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/29296418/Dru.Sepulveda.Part.2.pdf)
+
+## Tim Coker & John Varnadore - ESS System Parts 1-3
+
+- [**Documentation Part 1**](https://github.com/user-attachments/files/29296455/ESS.System.Part.1-.Tim.Coker.John.Varnadore.pdf)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/29296460/ESS.System.Part.2-.Tim.Coker.John.Varnadore.pdf)
+- [**Documentation Part 3**](https://github.com/user-attachments/files/29296468/ESS.System.Part.3-.Tim.Coker.John.Varnadore.pdf)
+
+## Kyle Addy - Factory Simulator Sandbox Game 
+
+- [**Documentation**](https://github.com/user-attachments/files/29296545/Factory.Simulator.Sandbox.Game.-.Kyle.Addy.pdf)
+
+## Noah Shuler - FitnessJust4You!
+
+- [**Documentation**](https://github.com/user-attachments/files/29296593/FitnessJust4You.Noah.Shuler.pdf)
+
+## Jeffrey Havens - GED Phone 
+
+- [**Documentation**](https://github.com/user-attachments/files/29296610/GED.Phone.-.Jeffrey.Havens.pdf)
+
+## Michael Lord - Gesture Recognition and Control 
+
+- [**Documentation**](https://github.com/user-attachments/files/29296649/Gesture.Recognition.and.Control.-.Michael.Lord.pdf)
+
+## Michia Rohrssen - Google Abuser 
+
+- [**Documentation**](https://github.com/user-attachments/files/29296675/Google.Abuser.-.Michia.Rohrssen.pdf)
