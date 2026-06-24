@@ -67,3 +67,7 @@
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29291823/Chris.Nuhn.Senior.Portfolio.Part.2.pdf?raw=true)
 - [**Documentation Part 3**](https://github.com/user-attachments/files/29291852/Chris.Nuhn.Senior.Portfolio.Part.3.pdf?raw=true)
 
+## Chris Gilbert - Church App Parts 1-3
+
+- [**Documentation Part 1**](https://github.com/user-attachments/files/29292241/Church.App.Part.1.-.Chris.Gilbert.pdf?raw=true)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/29292257/Church.App.Part.2.-.Chris.Gilbert.pdf)
