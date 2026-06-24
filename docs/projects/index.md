@@ -233,3 +233,62 @@
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29303422/Kids.Jukebox.USA.-.Aleisha.Vrooman.pdf)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29303453/Kids.Jukebox.USA.Part.2.-.Aleisha.Vrooman.pdf)
 
+## Randall & Garbeil - Lessons in Information Quality
+
+- [**Documentation**](https://github.com/user-attachments/files/29303814/Lessons.in.Information.Quality.-.Randall.Garbeil.pdf)
+
+## Marcus Alexander and Joshua Satterfield - Lock 
+
+- [**Documentation**](https://github.com/user-attachments/files/29304037/Lock.-.Marcus.Alexander.Joshua.Satterfield.pdf)
+
+## Matthew Buchanan - Senior Defense 
+
+- [**Documentation**](https://github.com/user-attachments/files/29304168/Matthew.Buchanan.Senior.Defense.pdf)
+
+## Meagin Arrocha 
+
+- [**Documentation**](https://github.com/user-attachments/files/29304252/Meagin.Arrocha.pdf)
+
+## Chris Angura - Meta Directory Services (MDS) 
+
+- [**Documentation**](https://github.com/user-attachments/files/29304617/Meta.Directory.Services.MDS.-.Chris.Angura.pdf)
+
+## Michael Lord 
+
+- [**Documentation**](https://github.com/user-attachments/files/29304655/Michael.Lord.pdf)
+
+## Michia Rohrssen - Parts 1 and 2
+
+- [**Documentation Part 1**](https://github.com/user-attachments/files/29304701/Michia.Rohrssen.Part.1.pdf)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/29304722/Michia.Rohrssen.Part.2.pdf)
+
+## Milleina Ohara - Money Planner
+
+- [**Documentation**](https://github.com/user-attachments/files/29304784/Money.Planner.-.Milleina.Ohara.pdf)
+
+## James Openshaw - Multimedia Player's Assistant Parts 1 and 2
+
+- [**Documentation Part 1**](https://github.com/user-attachments/files/29304851/Multimedia.Player.s.Assistant.Part.1.-.James.Openshaw.pdf)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/29304867/Multimedia.Player.s.Assistant.Part.2.-.James.Openshaw.pdf)
+
+## Dave Coons - Multiple Axis Rendered Interface 
+
+- [**Documentation**](https://github.com/user-attachments/files/29304912/Multiple.Axis.Rendered.Interface.-.Dave.Coons.pdf)
+
+## Chad Droze - Music Unlimited Parts 1 and 2
+
+- [**Documentation Part 1**](https://github.com/user-attachments/files/29304947/Music.Unlimited.-.Chad.Droze.Part.1.pdf)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/29304965/Music.Unlimited.-.Chad.Droze.Part.2.pdf)
+
+## Jason Anderson - OG Sportswear 
+
+- [**Documentation**](https://github.com/user-attachments/files/29304998/OG.Sportswear.-.Jason.Anderson.pdf)
+
+## Karen Thurston - On Course 
+
+- [**Documentation**](https://github.com/user-attachments/files/29305018/On.Course.-.Karen.Thurston.pdf)
+
+## Joshua Blount - Online Grade Book Parts 1 and 2
+
+- [**Documentation Part 1**](https://github.com/user-attachments/files/29305074/Online.Grade.Book.Part.1.-.Joshua.Blount.pdf)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/29305100/Online.Grade.Book.Part.2.-.Joshua.Blount.pdf)
