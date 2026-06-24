@@ -33,3 +33,37 @@
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29291420/Ashley.Ward.Part.1.pdf?raw=true)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29291447/Ashley.Ward.Part.2.pdf?raw=true)
 
+## Benji Powell - Senior Portfolio
+
+- [**Documentation**](https://github.com/user-attachments/files/29291519/Benji.Powell.Senior.Portfolio.pdf?raw=true)
+
+## Mike Havens - BitMangler 
+
+- [**Documentation**](https://github.com/user-attachments/files/29291554/BitMangler.-.Mike.Havens.pdf?raw=true)
+
+## Brett Bryant - Senior Portfolio Review 
+
+- [**Documentation**](https://github.com/user-attachments/files/29291637/Brett.Bryant.Senior.Portfolio.Review.pdf?raw=true)
+
+## Kappel & Mejia-Rocha - Buccaneer Backroads
+
+- [**Documentation**](https://github.com/user-attachments/files/29291660/Buccaneer.Backroads.-.Kappel.Mejia-Rocha.pdf?raw=true)
+
+## Jeff Schimizze - Business Department Student Advisement Database
+
+- [**Documentation**](https://github.com/user-attachments/files/29291691/Business.Department.Student.Advisement.Database.-.Jeff.Schimizze.pdf?raw=true)
+
+## Mirko Mandic - CD Collection 
+
+- [**Documentation**](https://github.com/user-attachments/files/29291721/CD.Collection.-.Mirko.Mandic.pdf?raw=true)
+
+## Kaitlyn Vinson - Chainmaille Calculation App 
+
+- [**Documentation**](https://github.com/user-attachments/files/29291756/Chainmaille.Calculation.App.-.Kaitlyn.Vinson.pdf?raw=true)
+
+## Chris Nuhn - Senior Portfolio Parts 1-3
+
+- [**Documentation Part 1**](https://github.com/user-attachments/files/29291811/Chris.Nuhn.Senior.Portfolio.Part.1.pdf?raw=true)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/29291823/Chris.Nuhn.Senior.Portfolio.Part.2.pdf?raw=true)
+- [**Documentation Part 3**](https://github.com/user-attachments/files/29291852/Chris.Nuhn.Senior.Portfolio.Part.3.pdf?raw=true)
+
