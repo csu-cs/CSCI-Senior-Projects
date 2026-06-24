@@ -292,3 +292,14 @@
 
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29305074/Online.Grade.Book.Part.1.-.Joshua.Blount.pdf)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29305100/Online.Grade.Book.Part.2.-.Joshua.Blount.pdf)
+
+## Oscar Smalls Jr. - Senior Portfolio Parts 1-3
+
+- [**Documentation Part 1**](https://github.com/user-attachments/files/29308070/Oscar.Smalls.Jr.Senior.Portfolio.Part.1.pdf)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/29308083/Oscar.Smalls.Jr.Senior.Portfolio.Part.2.pdf)
+- [**Documentation Part 3**](https://github.com/user-attachments/files/29308107/Oscar.Smalls.Jr.Senior.Portfolio.Part.3.pdf)
+
+## Christopher Wyant - Parental Keylogger Parts 1 and 2
+
+- [**Documentation Part 1**](https://github.com/user-attachments/files/29308352/Parental.Keylogger.Part.1.-.Christopher.Wyant.pdf)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/29308376/Parental.Keylogger.Part.2.-.Christopher.Wyant.pdf)
