@@ -164,3 +164,72 @@
 ## Michia Rohrssen - Google Abuser 
 
 - [**Documentation**](https://github.com/user-attachments/files/29296675/Google.Abuser.-.Michia.Rohrssen.pdf)
+
+## TJ Moore - Google Maps Gadget Parts 1 and 2 
+
+- [**Documentation Part 1**](https://github.com/user-attachments/files/29299841/Google.Maps.Gadget.Part.1.-.TJ.Moore.pdf)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/29299847/Google.Maps.Gadget.Part.2.-.TJ.Moore.pdf)
+
+## Oscar Smalls Jr. - Home and Away Bear 
+
+- [**Documentation**](https://github.com/user-attachments/files/29299870/Home.and.Away.Bear.-.Oscar.Smalls.Jr.pdf)
+
+## Tameka Huger and Amanda Ringer Project 
+
+- [**Documentation**](https://github.com/user-attachments/files/29299919/Huger.and.Ringer.pdf)
+
+## Aryan Dale and Corin Blake- Institutional Effectiveness Committee 
+
+- [**Documentation**](https://github.com/user-attachments/files/29302458/Institutional.Effectiveness.Committee.-.Dale.Blake.pdf)
+
+## Brandon Caddow-Young - Internet Controlled Car 
+
+- [**Documentation**](https://github.com/user-attachments/files/29302474/Internet.Controlled.Car-.Brandon.Caddow-Young.pdf)
+
+## Jackson Crist - Interstella Synth VST
+
+- [**Documentation**](https://github.com/user-attachments/files/29302548/Interstella.Synth.VST.-.Jackson.Crist.pdf)
+
+## Justin Andre - iOS5 Development Essemtials
+
+- [**Documentation**](https://github.com/user-attachments/files/29302791/iOS.5.Development.essentials-.Justin.Andre.pdf)
+
+## Justin Andre - Senior Portfolio
+
+- [**Documentation**](https://github.com/user-attachments/files/29302999/Justin.Andre.Senior.Portfolio.pdf)
+
+## Justin Jenkins and Josiah Vergonio - iPhone RC Car
+
+- [**Documentation**](https://github.com/user-attachments/files/29302840/iPhone.RC.Car.-.Jenkins.Vergonio.pdf)
+
+## Jason Davis - Mobile Ad Hoc Networking 
+
+- [**Documentation**](https://github.com/user-attachments/files/29302850/Jason.Davis.-.Mobile.Ad.Hoc.Networking.pdf)
+
+## Joshua Joseph - Joseph & Sons 
+
+- [**Documentation**](https://github.com/user-attachments/files/29302890/Joshua.Joseph.-.Joseph.Sons.pdf)
+
+## Josiah Vergonio - Senior Portfolio Parts 1 and 2
+
+- [**Documentation Part 1**](https://github.com/user-attachments/files/29302926/Josiah.Vergonio.-.Part.1.pdf)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/29302946/Josiah.Vergonio.-.Part.2.pdf)
+
+## Karen Thurston - Senior Project Milestones
+
+- [**Documentation**](https://github.com/user-attachments/files/29303021/Karen.Thurston.Senior.Project.Milestones.pdf)
+
+## Katherine Rodreick - Senior Portfolio
+
+- [**Documentation**](https://github.com/user-attachments/files/29303069/Katherine.Rodreick.Senior.Portfolio.pdf)
+
+## Kevin Rutkowski 
+
+- [**Documentation: Senior Portfolio**](https://github.com/user-attachments/files/29303099/Kevin.Rutkowski.Senior.Portfolio.pdf)
+- [**Documentation: Senior Project**](https://github.com/user-attachments/files/29303118/Kevin.Rutkowski.Senior.Project.pdf)
+
+## Aleisha Vrooman - Kids' Jukebox USA parts 1 and 2 
+
+- [**Documentation Part 1**](https://github.com/user-attachments/files/29303422/Kids.Jukebox.USA.-.Aleisha.Vrooman.pdf)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/29303453/Kids.Jukebox.USA.Part.2.-.Aleisha.Vrooman.pdf)
+
