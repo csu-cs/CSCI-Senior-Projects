@@ -517,3 +517,43 @@
 - [**Video**](https://www.youtube.com/watch?v=L4otDR-b38M)
 - **Abstract**: SwiftEdge Security & Optimizer was created to provide a single Windows utility that combines performance tuning, lightweight security hardening, system cleanup, and vulnerability scanning inside one graphical application. The project was intended to reduce the need for separate scripts, third-party applications, built-in utilities, and manual registry or service changes by grouping practical maintenance and security actions into a single PowerShell-based Windows Forms application.
 
+## Kayla Dixon - Audio Player with Speed and Pitch Adjustments 
+
+- [**Video**](https://www.youtube.com/watch?v=LrtfD8wUhCk)
+- **Abstract**: This project will be an app designed to change the pitch, tempo, and length of music on your mobile device while functioning as a music player.
+
+## Teaundra Thompson? 
+
+## Logan Riley - Gizmo: AI-Powered Meccanoid Robot Assistant 
+- [**Video**](https://www.youtube.com/watch?v=_mU7KozTma0)
+- **Abstract**: The project is a backend development assignment in which students design and implement a full backend system that supports multiple user stories through a unified architecture. It emphasizes translating prior requirements and development specifications into a working, scalable backend, including clear module design, data abstractions, persistent storage, and well-defined APIs (often REST-based). The project also requires system-level thinking, such as coordinating multiple backend components, ensuring concurrency support, and documenting architectural decisions with diagrams (e.g., Mermaid). In addition to implementation, students must provide detailed documentation of their design process, justify engineering choices, and include evidence of testing and correctness. Overall, the project focuses on applying software engineering principles to build a coherent, maintainable backend while demonstrating the ability to move from specification to production-ready system design.
+
+## Whitney Carpenter - SecurePass Chrome Extension 
+
+- [**Video**](https://www.youtube.com/watch?v=QrieWGQJ3Rw)
+- **Abstract**: A user-friendly extension to evaluate password strength and provide instant feedback will enhance online security and protect user privacy. Ideally, users would create strong, complex passwords adhering to the highest security standards; however, many struggle with this, opting for simple, reused passwords. This is a critical issue as weak passwords create significant security risks, including hacking attempts, data breaches, and identity theft, potentially leading to financial loss, privacy invasion, and reputational damage. According to the Verizon Data Breach Investigations Report¹, 81% of hacking-related breaches involve compromised and weak passwords. Using a user-friendly Chrome extension to evaluate password strength will significantly mitigate these risks. Users stand to benefit substantially from this extension in the form of enhanced security and the support of their right to privacy. Weak passwords are a major security risk that can lead to significant consequences, but by developing a user-friendly Chrome extension that evaluates password strength and provides instant, local feedback, we can help users create stronger passwords, enhance their online security, and protect their privacy. This project was completed as part of an Honors Senior Project, requiring additional implementation effort, including preparing the extension for real-world deployment and meeting elevated documentation and testing standards.
+
+## Laura Kirby - Web Server Solution 
+
+- [**Video**](https://www.youtube.com/watch?v=oqJFLW1C070)
+- **Abstract**: This project is the design, proposal, and implementation of a web server solution for the Charleston Southern University Computer Science department. The goal for this project is to design a solution for students and faculty to host the websites that they design and are needed to complete various coursework, without independently researching and purchasing hosting services on various sites. This will be accomplished through an IT decision process that considers cost, functionality, longevity, and its support and maintainability. This solution will provide for up to one hundred fifty websites to give students and faculty the ability to easily manage the hosting of their various coursework. Furthermore, it will give cohesiveness to the department to have websites all hosted the same way and serve as an opportunity for students to develop professional skills by deploying websites.
+
+## Logan Reed - Cisco Packet Tracer 
+
+- [**Video**](https://www.youtube.com/watch?v=m7mtLSocd4U)
+- **Abstract**: It is a lab that guides the user on how to use Cisco Packet Tracer to create and secure a small network.
+
+## Jacob Nagle - Cyber Math 
+
+- [**Video**](https://www.youtube.com/watch?v=8qpuYyvr3Us)
+- **Abstract**: This project involves the design and development of a safe, interactive website that will be made to help fourth-grade students improve their multiplication and division skills. The website will offer a fun and educational experience through a variety of features such as timed challenges, game-like quizzes, and progress tracking. The main goal is to help students build math fluency while also promoting cybersecurity safety habits.
+
+## Joshua Strafford - Game-Winning Stats Webapp
+
+- [**Video**](https://www.youtube.com/watch?v=2GZJQ1qUHN4)
+- **Abstract**: This project is a sports analytics website that collects, processes, and displays player statistics from multiple sources. Some key features include web scraping from: Basketball Reference, Baseball Reference, and ESPN. There is data transformation into structured JSON files and dataframes, player search functionality, and player profile pages, including career stats, advanced analytics, rankings/comparisons, and visualization of stats in charts/graphs.
+
+## Joshua Ingalls - Cyber-Range Expansion for Beginners 
+
+- [**Video**](https://www.youtube.com/watch?v=F1m6z-3uLXA)
+- **Abstract**: A virtual environment where Freshman/Sophomore Cybersecurity students can learn the basic principles needed for cyber competitions. Students will be able to enumerate and explore networks, navigate Command Line Interfaces, and establish firewall rules against attacking IP.
