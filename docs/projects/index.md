@@ -1,4 +1,4 @@
-# Index of Projects Pre-2020
+# Index of Projects 
 
 
 ## Matthew Wempe - 2D RPG Video Game
@@ -472,3 +472,17 @@
 
 - [**Video**](https://www.youtube.com/watch?v=XsuBwvjje1Q)
 - **Abstract**: Discreet Dispatch is a mobile application designed to facilitate silent emergency reporting by enabling users to communicate critical information to emergency dispatchers without speaking. Developed using Kotlin and JavaScript, the application guides users through a series of responder-specific questions similar to those asked during a 911 call, collecting details about the emergency, individuals involved, and situational context. User responses are automatically compiled into a structured script and converted into a text-to-speech recording, which is then played during an automated phone call to emergency services. By providing an alternative communication method for individuals who are unable to speak safely or effectively during an emergency, the system improves accessibility, enhances dispatcher awareness, and supports faster, more informed deployment of first responders. The project demonstrates the application of mobile software development, user-centered design, and emergency communication principles to address a critical public safety need.
+
+## Melody Cabanellas - Stay on Track Web App 
+
+- [**Video**](https://www.youtube.com/watch?v=J4PZEZ_DwQE)
+- **Abstract**: The Stay on Track web application is a productivity and task-management system designed to help users organize infrequent but important life-related responsibilities, such as appointments, maintenance schedules, deadlines, and license renewals. Developed as a senior project using Ruby on Rails, JavaScript, and HTML/CSS, the application addresses limitations of traditional task trackers that primarily focus on academic or daily activities. Key features include recurring task scheduling, customizable categories, priority and urgency management, deadline tracking, task completion monitoring, user accounts, and accessibility options such as theme customization. The system provides a dashboard that organizes tasks into overdue, upcoming, and completed sections, helping users prioritize responsibilities and avoid missed obligations. User acceptance testing and iterative refinement were used to evaluate usability, visual design, and functionality, resulting in improvements based on participant feedback. The project demonstrates the application of full-stack web development principles to create a practical tool that supports long-term organization and personal productivity.
+
+## Raul Cabanellas - Task Manager 
+
+- [**Video**](https://www.youtube.com/watch?v=mEiEG75aIbY)
+- **Abstract**: The Task Manager project is a desktop scheduling and productivity application developed in C++ using Qt Creator to help users efficiently organize, prioritize, and track their tasks. The system enables users to create, edit, delete, and schedule tasks while assigning priorities, tracking completion status, linking prerequisite tasks, and organizing work into customizable groups. Designed with a simple and intuitive interface, the application provides multiple viewing modes, including weekly, monthly, and list-based schedules, along with drag-and-drop task management and visual indicators for task relationships and progress. The project emphasizes reducing the time required to manage complex schedules by offering clear organizational tools and quick task adjustments. Comprehensive testing against functional, usability, and interface requirements demonstrated successful implementation of all planned features, while peer feedback identified opportunities for future enhancements such as responsive design, mobile compatibility, personalization options, and advanced project-management visualizations. Overall, the project demonstrates the application of software engineering principles, user-centered design, and GUI development to create an effective task management solution.
+
+## Helmut Cespedes - Meet Me in the Middle 
+
+- [**Video**](https://www.youtube.com/watch?v=HjO_U9W6U_Y)
