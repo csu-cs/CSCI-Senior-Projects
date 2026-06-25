@@ -453,4 +453,11 @@
 - [**Documentation**](https://github.com/user-attachments/files/29340793/Zipf.s.Law.-.Eric.Foster.pdf)
 
 
+
 # 2025-2026 Senior Projects
+
+
+
+## Brayden Kirkland - Puzzleheart: A Video Game for Thinkers 
+
+- [**Video**](https://www.youtube.com/watch?v=08HqcfVhTII) 
