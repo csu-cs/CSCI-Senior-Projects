@@ -93,6 +93,7 @@
 ## Derick Beckwith - COINS Senior Project 
 
 - [**Documentation**](https://github.com/user-attachments/files/29295365/COINS.Senior.Project-.Derick.Beckwith.pdf)
+- [**Senior Portfolio**](https://github.com/user-attachments/files/29336608/Senior.Portfolio.-.Derick.Beckwith.pdf)
 
 ## Brown & Harrell - College 4 Less 
 
@@ -271,9 +272,10 @@
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29304851/Multimedia.Player.s.Assistant.Part.1.-.James.Openshaw.pdf)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29304867/Multimedia.Player.s.Assistant.Part.2.-.James.Openshaw.pdf)
 
-## Dave Coons - Multiple Axis Rendered Interface 
+## Dave Coons 
 
-- [**Documentation**](https://github.com/user-attachments/files/29304912/Multiple.Axis.Rendered.Interface.-.Dave.Coons.pdf)
+- [**Multiple Axis Rendered Interface**](https://github.com/user-attachments/files/29304912/Multiple.Axis.Rendered.Interface.-.Dave.Coons.pdf)
+- [**Superfetch and Readyboost**](https://github.com/user-attachments/files/29338113/Superfetch.and.readyboost.-.Dave.Coons.pdf)
 
 ## Chad Droze - Music Unlimited Parts 1 and 2
 
@@ -303,3 +305,82 @@
 
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29308352/Parental.Keylogger.Part.1.-.Christopher.Wyant.pdf)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29308376/Parental.Keylogger.Part.2.-.Christopher.Wyant.pdf)
+
+## PJ Neidlinger - Performance Model Calculator 
+
+- [**Documentation**](https://github.com/user-attachments/files/29336020/Performance.Model.Calculator.-.PJ.Neidlinger.pdf)
+
+## Eric Foster - Portfolio Review Parts 1 and 2
+
+- [**Documentation Part 1**](https://github.com/user-attachments/files/29336058/Portfolio.Review.Part.1.-.Eric.Foster.pdf)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/29336066/Portfolio.Review.Part.2.-.Eric.Foster.pdf)
+
+## James Carter - RBC inc Inventory control 
+
+- [**Documentation**](https://github.com/user-attachments/files/29336142/RBC.inc.inventory.control.James.Carter.pdf)
+
+## Rebecca Randall - Senior Portfolio 
+
+- [**Documentation**](https://github.com/user-attachments/files/29336446/Rebecca.Randall.Senior.Portfolio.pdf)
+
+## Michelle Duffy - Ritmo 
+
+- [**Documentation**](https://github.com/user-attachments/files/29336493/Ritmo.-.Michelle.Duffy.pdf)
+
+## Anthony Johnson - Schedule Builder 
+
+- [**Documentation**](https://github.com/user-attachments/files/29336528/Schedule.Builder.-.Anthony.Johnson.pdf)
+
+## Joshua Dantzler 
+
+- [**Documentation Senior Portfolio**](https://github.com/user-attachments/files/29336639/Senior.Portfolio.-.Joshua.Dantzler.pdf)
+
+## Justin Jenkins 
+
+- [**Documentation Senior Portfolio**](https://github.com/user-attachments/files/29336849/Senior.Portfolio.-.Justin.Jenkins.pdf)
+
+## Marcus Williams 
+
+- [**Documentation Senior Portfolio**](https://github.com/user-attachments/files/29337156/Senior.Portfolio.-.Marcus.Williams.pdf)
+
+## Markowitz Frost 
+
+- [**Documentation Senior Portfolio**](https://github.com/user-attachments/files/29337221/Senior.Portfolio.-.Markowitz.Frost.pdf)
+
+## Stephen Thackston 
+
+- [**Documentation Senior Portfolio**](https://github.com/user-attachments/files/29337372/Senior.Portfolio.-.Stephen.Thackston.pdf)
+
+## Jezreel Wilson 
+
+- [**Documentation Senior Portfolio Part 1**](https://github.com/user-attachments/files/29337443/Senior.Portfolio.Jezreel.Wilson.Part.1.pdf)
+- [**Documentation Senior Portfolio Part 2**](https://github.com/user-attachments/files/29337450/Senior.Portfolio.Jezreel.Wilson.Part.2.pdf)
+
+## Christopher Wyant 
+
+- [**Documentation Senior Portfolio Part 1**](https://github.com/user-attachments/files/29337533/Senior.Portfolio.Part.1.-.Christopher.Wyant.pdf)
+- [**Documentation Senior Portfolio Part 2**](https://github.com/user-attachments/files/29337536/Senior.Portfolio.Part.2.-.Christopher.Wyant.pdf)
+
+## Steven Garbeil
+
+- [**Documentation Senior Portfolio Part 1?**](https://github.com/user-attachments/files/29337618/Senior.Portfolio.Part.1.-.Steven.Garbeil.pdf)
+
+## Jared Dingus, Sandeep Reddy, and Paul Stubblefield - Senior Project Defense 
+
+- [**Documentation**](https://github.com/user-attachments/files/29337754/Senior.Project.Defense.-.Dingus.Reddy.Stubblefield.pdf)
+
+## Igor Smirnov - Senior Project Design 
+
+- [**Documentation**](https://github.com/user-attachments/files/29337840/Senior.Project.Design.-.Igor.Smirnov.pdf)
+
+## Richard Drummond - Solving Games Using AI 
+
+- [**Documentation**](https://github.com/user-attachments/files/29337924/Solving.Games.using.AI.-.Richard.Drummond.pdf)
+
+## Wendy Stengel - Sudoku Puzzle Solving Robot 
+
+- [**Documentation**](https://github.com/user-attachments/files/29338045/Sudoku.Puzzle.Solving.Robot.-.Wendy.Stengel.pdf)
+
+## Angela Washington and Ananth Raghuraman - System Profile Parts 1-5 
+
+- [**Documentation Part 1**](https://github.com/user-attachments/files/29338422/System.Profile.Part.1.-.Raghuraman.Washington.pdf)
