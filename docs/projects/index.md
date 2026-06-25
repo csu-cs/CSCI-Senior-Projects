@@ -486,3 +486,34 @@
 ## Helmut Cespedes - Meet Me in the Middle 
 
 - [**Video**](https://www.youtube.com/watch?v=HjO_U9W6U_Y)
+
+## Kailey Owens - Personally Manage 
+
+- [**Video**](https://www.youtube.com/watch?v=5KW75cQleiU)
+- **Abstract**:The Personal Management Application, “Personally Manage,” is a web-based productivity tool developed by Kailey Owens to help users organize daily responsibilities, reduce stress, and improve time management through a centralized platform. Built using Python, Flask, SQLite, HTML/CSS, JavaScript, and Jinja, the application integrates three primary features: a calendar for scheduling events and reminders, a notes section for capturing ideas and information, and a budgeting tool for managing personal finances. The system emphasizes ease of use through intuitive navigation, customizable scheduling, and accessible design, allowing users to efficiently track tasks, appointments, and financial goals. User testing indicated that different individuals found value in different features, demonstrating the application’s flexibility in meeting diverse personal management needs. The project also provided experience with web development, database integration, and user interface design, while establishing a foundation for future enhancements such as event alerts and expanded budgeting functionality.
+
+## Marina Skegro - Gamified Habit Tracker 
+
+[**Video**](https://www.youtube.com/watch?v=Wc1zbJ82FM0)
+**Abstract**: Habit Love is a gamified habit-tracking app built with Flutter and Firebase. The app transforms the often dull process of building new habits into an engaging, rewarding experience where users earn XP for completing daily habits, level up as they grow, and unlock achievement badges for hitting milestones. Streaks keep users accountable day over day, while a built-in analytics dashboard visualizes progress through weekly and monthly charts so users can actually see themselves improving over time. All data syncs to the cloud in real time via Firebase, meaning progress is never lost and is accessible across devices. The result is an app designed to make habit formation more engaging and sustainable.
+
+## Christian Green - LearnNow Interactive Learning Web app 
+
+- [**Video**](https://www.youtube.com/watch?v=rPzuvlZWswY)
+- **Abstract**: LearnNow is an interactive educational web application designed to make learning engaging and accessible for elementary school students. Developed using React, Node.js, MySQL, TailwindCSS, and C#, the platform allows users to create accounts, track academic progress, and participate in personalized learning paths focused on subjects such as elementary mathematics and geometry. The system includes features such as secure authentication, password recovery, real-time progress tracking through a backend API, user-to-user chat functionality, leaderboards, and customizable themes. To enhance engagement, the platform incorporates educational games that reinforce concepts learned through lessons and assessments. By combining interactive learning tools, progress monitoring, and social features, LearnNow provides a comprehensive environment that supports both academic development and user engagement.
+
+## Michael Ludwikowski - Stock Trading AI Analyst 
+
+- [**Video**](https://www.youtube.com/watch?v=UoYlHUVdPDQ)
+- **Abstract**: The Stock Trading AI Analyst is an educational web-based platform designed to help beginner investors learn stock market concepts and trading strategies in a safe, simulated environment. Developed by Michael Ludwikowski using Python, Flask, SQLite, HTML/CSS, JavaScript, Bokeh, and Ollama (Llama 3.2), the application combines paper trading, portfolio management, real-time market data, interactive visualizations, and AI-generated investment guidance. Users can practice buying and selling stocks with virtual funds, monitor portfolio performance, explore historical market data, and receive AI-assisted buy, sell, or hold recommendations that include confidence levels and risk assessments. The platform also features practice and simulation modes, educational resources, and persistent account tracking to reinforce learning through hands-on experience. By integrating financial education, data visualization, and artificial intelligence, the project provides a realistic yet risk-free environment for developing trading knowledge and decision-making skills. 
+
+## Peter Jackson Link - Project Charito: Biblical Research Tool 
+
+- [**Video**](https://www.youtube.com/watch?v=AHa8HADG9WE)
+- **Abstract**: Project Charito is a web-based biblical research platform designed to provide free, public-domain resources for Bible study, church history research, and original-language analysis. The system integrates multiple English Bible translations, Greek and Hebrew texts, commentaries, and writings of the Church Fathers into a hypertext-driven interface that emphasizes accessibility and scholarly exploration. Built primarily in Common Lisp using the AP5 knowledge-base system, Charito employs custom data structures and automated ingestion of theological XML sources to manage large volumes of interconnected scripture references and historical documents. Key features include scripture search, lexical and grammatical analysis, cross-referencing between biblical texts and historical sources, user accounts with note-taking capabilities, manuscript comparison tools, and customizable reading settings. The project is deployed on an OpenBSD-based infrastructure using lightweight web technologies and has demonstrated successful automated testing and positive user feedback. Future development focuses on expanding resource integration, enhancing lexicon support, improving documentation, and enabling collaborative study features.
+
+## Daniel Howard & Noah Huber - SwiftEdge Security & Optimizer 
+
+- [**Video**](https://www.youtube.com/watch?v=L4otDR-b38M)
+- **Abstract**: SwiftEdge Security & Optimizer was created to provide a single Windows utility that combines performance tuning, lightweight security hardening, system cleanup, and vulnerability scanning inside one graphical application. The project was intended to reduce the need for separate scripts, third-party applications, built-in utilities, and manual registry or service changes by grouping practical maintenance and security actions into a single PowerShell-based Windows Forms application.
+
