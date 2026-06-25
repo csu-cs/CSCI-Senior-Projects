@@ -410,3 +410,44 @@
 
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29339767/Vendor.Management.System.Part.1.-.Kristin.Lewis.pdf)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29339780/Vendor.Management.System.Part.2.-.Kristin.Lewis.pdf)
+
+## Katherine Rodreick - VHDL Tutorials Parts 1-3
+
+- [**Documentation Part 1**](https://github.com/user-attachments/files/29340325/VHDL.Tutorials.Part.1.-.Katherine.Rodreick.pdf)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/29340331/VHDL.Tutorials.Part.2.-.Katherine.Rodreick.pdf)
+- [**Documentation Part 3**](https://github.com/user-attachments/files/29340338/VHDL.Tutorials.Part.3.-.Katherine.Rodreick.pdf)
+
+## Thomas Finch - Virtual Reality Tour
+
+- [**Documentation**](https://github.com/user-attachments/files/29340531/Virtual.Reality.Tour.-.Thomas.Finch.pdf)
+
+## Joshua Dickard - Vote Data Center 
+
+- [**Documentation**](https://github.com/user-attachments/files/29340575/Vote.Data.Center.-.Joshua.Dickard.pdf)
+
+## Sean Hayes - With It 
+
+- [**Documentation Part 1**](https://github.com/user-attachments/files/29340609/With.it.Part.1.-.Sean.Hayes.pdf)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/29340624/With.It.Part.2.-.Sean.Hayes.pdf)
+- [**Power Point**](https://github.com/user-attachments/files/29340639/With.It.Power.Point.-.Sean.Hayes.pdf)
+
+## Cary Humphries - XB Monitor Parts 1 and 2
+
+- [**Documentation Part 1**](https://github.com/user-attachments/files/29340663/XB.Monitor.Part.1-.Cary.Humphries.pdf)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/29340673/XB.Monitor.Part.2-.Cary.Humphries.pdf)
+
+## Carlos Ocasio Rodriguez - Xecure Password Manager 
+
+- [**Documentation**](https://github.com/user-attachments/files/29340715/Xecure.Password.Manager.-.Carlos.Ocasio.Rodriguez.pdf)
+
+## Michael Wilcome - XNA Card Game 
+
+- [**Documentation**](https://github.com/user-attachments/files/29340749/XNA.Card.Game.-.Michael.Wilcome.pdf)
+
+## Yon Meyer - Y.M. Inc. 
+
+- [**Documentation**](https://github.com/user-attachments/files/29340769/Y.M.Inc.-.Yon.Meyer.pdf)
+
+## Eric Foster - Zipf's Law 
+
+- [**Documentation**](https://github.com/user-attachments/files/29340793/Zipf.s.Law.-.Eric.Foster.pdf)
