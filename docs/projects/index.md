@@ -495,7 +495,7 @@
 ## Marina Skegro - Gamified Habit Tracker 
 
 - [**Video**](https://www.youtube.com/watch?v=Wc1zbJ82FM0)
-- **Abstract**: Habit Love is a gamified habit-tracking app built with Flutter and Firebase. The app transforms the often dull process of building new habits into an engaging, rewarding experience where users earn XP for completing daily habits, level up as they grow, and unlock achievement badges for hitting milestones. Streaks keep users accountable day over day, while a built-in analytics dashboard visualizes progress through weekly and monthly charts so users can actually see themselves improving over time. All data syncs to the cloud in real time via Firebase, meaning progress is never lost and is accessible across devices. The result is an app designed to make habit formation more engaging and sustainable.
+-  **Abstract**: Habit Love is a gamified habit-tracking app built with Flutter and Firebase. The app transforms the often dull process of building new habits into an engaging, rewarding experience where users earn XP for completing daily habits, level up as they grow, and unlock achievement badges for hitting milestones. Streaks keep users accountable day over day, while a built-in analytics dashboard visualizes progress through weekly and monthly charts so users can actually see themselves improving over time. All data syncs to the cloud in real time via Firebase, meaning progress is never lost and is accessible across devices. The result is an app designed to make habit formation more engaging and sustainable.
 
 ## Christian Green - LearnNow Interactive Learning Web app 
 
