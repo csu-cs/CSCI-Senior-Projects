@@ -1,4 +1,4 @@
-# Index of Projects
+# Index of Projects Pre-2020
 
 
 ## Matthew Wempe - 2D RPG Video Game
@@ -451,3 +451,6 @@
 ## Eric Foster - Zipf's Law 
 
 - [**Documentation**](https://github.com/user-attachments/files/29340793/Zipf.s.Law.-.Eric.Foster.pdf)
+
+
+# 2025-2026 Senior Projects
