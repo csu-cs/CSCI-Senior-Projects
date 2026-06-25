@@ -346,6 +346,7 @@
 ## Markowitz Frost 
 
 - [**Documentation Senior Portfolio**](https://github.com/user-attachments/files/29337221/Senior.Portfolio.-.Markowitz.Frost.pdf)
+- [**Documentation Touchless SDK**](https://github.com/user-attachments/files/29339419/Touchless.SDK.-.Markowitz.Frost.pdf)
 
 ## Stephen Thackston 
 
@@ -384,3 +385,28 @@
 ## Angela Washington and Ananth Raghuraman - System Profile Parts 1-5 
 
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29338422/System.Profile.Part.1.-.Raghuraman.Washington.pdf)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/29339117/System.Profile.Part.2.-.Raghuraman.Washington.pdf)
+- [**Documentation Part 3**](https://github.com/user-attachments/files/29339132/System.Profile.Part.3.-.Raghuraman.Washington.pdf)
+- [**Documentation Part 4**](https://github.com/user-attachments/files/29339198/System.Profile.Part.4.-.Raghuraman.Washington.pdf)
+- [**Documentation Part 5**](https://github.com/user-attachments/files/29339226/System.Profile.Part.5.-.Raghuraman.Washington.pdf)
+
+## Taylor Perry - Senior Portfolio 
+
+- [**Documentation**](https://github.com/user-attachments/files/29339302/Taylor.Perry.Senior.Portfolio.pdf)
+
+## David McLaughlin - Unity 
+
+- [**Documentation**](https://github.com/user-attachments/files/29339611/Unity.-.David.McLaughlin.pdf)
+
+## Walter K. Browning, IV - University Relations Website 
+
+- [**Documentation**](https://github.com/user-attachments/files/29339654/University.Relations.Website.-.Walter.K.Browning.IV.pdf)
+
+## Chase Freshwater and William Conroy - Unreal Engine 4 
+
+- [**Documentation**](https://github.com/user-attachments/files/29339727/Unreal.Engine.4.-.Chase.Freshwater.and.William.Conroy.pdf)
+
+## Kristin Lewis - Vendor Management System Parts 1 and 2
+
+- [**Documentation Part 1**](https://github.com/user-attachments/files/29339767/Vendor.Management.System.Part.1.-.Kristin.Lewis.pdf)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/29339780/Vendor.Management.System.Part.2.-.Kristin.Lewis.pdf)
