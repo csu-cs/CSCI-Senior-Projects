@@ -4,7 +4,7 @@
 ## Matthew Wempe - 2D RPG Video Game
 
 - [**Documentation**](https://github.com/user-attachments/files/29263315/2D.RPG.Video.Game.-.Matthew.Wempe.pdf?raw=true)
-- **Abstract**: "This project is a top down Two-Dimensional (2D) Role-playing (RP) dungeon crawler game. The player takes control of a mage who traverses through dungeon levels while encountering challenging enemies and bosses. Along their journey, players can expect to collect gold and gain experience which can be used to level up their health and skills. For players to advance to the next dungeon level, they will have to complete certain objectives. These objectives vary from defeating a certain number of enemies to solving puzzles."
+- **Abstract**: This project is a top down Two-Dimensional (2D) Role-playing (RP) dungeon crawler game. The player takes control of a mage who traverses through dungeon levels while encountering challenging enemies and bosses. Along their journey, players can expect to collect gold and gain experience which can be used to level up their health and skills. For players to advance to the next dungeon level, they will have to complete certain objectives. These objectives vary from defeating a certain number of enemies to solving puzzles.
 
 ## Jonah King - 3-D Space Shooter 
 
@@ -14,12 +14,12 @@
 ## Andal & Tibayan - 3D Video Conference Parts 1 and 2 
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29290509/3D.Video.Conference.Part.1.-.Andal.Tibayan.pdf?raw=true)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29290534/3D.Video.Conference.Part.2.-.Andal.Tibayan.pdf?raw=true)
-- **Abstract**: "3D Video Conferencing is a program designed to utilize two DirectShow compatible web cameras to create a more "immersive" and 3D experience for the party participating in a video conference. The frames from each of the web cameras rapidly interleaving are outputted to the user's screen. Using eDimensional's LCD (Liquid Crystal Display) shutter glasses, the interleaving frames create the illusion of 3D." 
+- **Abstract**: 3D Video Conferencing is a program designed to utilize two DirectShow compatible web cameras to create a more "immersive" and 3D experience for the party participating in a video conference. The frames from each of the web cameras rapidly interleaving are outputted to the user's screen. Using eDimensional's LCD (Liquid Crystal Display) shutter glasses, the interleaving frames create the illusion of 3D.
 
 ## Austin Richards - A Tour of Cryptography 
 
 - [**Documentation**](https://github.com/user-attachments/files/29290746/A.Tour.of.Cryptography.-.Austin.Richards.pdf?raw=true)
-- **Abstract**: "Block Ciphers allow the output result to be approximately the same size as the message, rounded up (like a ceiling function) to the nearest whole block. The current trend in block sizes tend to be about 64 bits, with the forecast of increasing this to 128 bits. Block Ciphers tend to operate at a reasonable speed, yet offer reasonable protection at the same time." 
+- **Abstract**: Block Ciphers allow the output result to be approximately the same size as the message, rounded up (like a ceiling function) to the nearest whole block. The current trend in block sizes tend to be about 64 bits, with the forecast of increasing this to 128 bits. Block Ciphers tend to operate at a reasonable speed, yet offer reasonable protection at the same time.
 
 ## Christopher Corbett - Analysis and Design 
 
@@ -54,10 +54,12 @@
 ## Kappel & Mejia-Rocha - Buccaneer Backroads
 
 - [**Documentation**](https://github.com/user-attachments/files/29291660/Buccaneer.Backroads.-.Kappel.Mejia-Rocha.pdf?raw=true)
+- **Abstract**: The purpose of this project is to create an outlet for CSU students to find an alternative way to interact with the city that they live in. The Buccaneer Backroads web application not only offers food, but other activities such as shopping and group friendly things so that  there is something suitable for everyone. 
 
 ## Jeff Schimizze - Business Department Student Advisement Database
 
 - [**Documentation**](https://github.com/user-attachments/files/29291691/Business.Department.Student.Advisement.Database.-.Jeff.Schimizze.pdf?raw=true)
+- **Abstract**: The system is to provide a faculty advisor the ability to properly lay out the courses to be used by an undergraduate business student at CSU. 
 
 ## Mirko Mandic - CD Collection 
 
@@ -66,6 +68,7 @@
 ## Kaitlyn Vinson - Chainmaille Calculation App 
 
 - [**Documentation**](https://github.com/user-attachments/files/29291756/Chainmaille.Calculation.App.-.Kaitlyn.Vinson.pdf?raw=true)
+- **Abstract**: This application is to be used by chainmaille artists to assist them in calculating the exact quantity of rings to use for a project. The calculation portion of the application shows the user the open and closed rings that they will need so they can prepare the rings, making the weave more efficient. The appliction also allows users to keep an inventory of their rings, granting the user the ease of knowing they have enough rings for projects, or showing them when they need to order more. The users can update their ring counts to match their inventory or when they purchase more rings. The final page of the application contains instructions on how to do some common weaves to remind the user. Each instruction set has detailed images as well as written out steps on how to create the weave. 
 
 ## Chris Nuhn - Senior Portfolio Parts 1-3
 
@@ -76,6 +79,7 @@
 ## Chris Nuhn - Data Quality and Zipf's Law
 
 - [**Documentation**](https://github.com/user-attachments/files/29296093/Data.Quality.and.Zipf.s.Law.-.Chris.Nuhn.pdf)
+- **Abstract**: This program outputs how well a certain set of data fits to Zipf's law based on the correlation to a line. The user is able to give this program a .txt file with data in numerical form and outputs the correlation, as well as being able to create a .xls file that can be easily graphed. As part of the research involved with this project, the program is able to create errors in the data in order to see if those outliers can be spotted. The program is able to randomly generate corrupt data two separate ways, allowing for more accurate comparisons to be made. 
 
 ## Chris Gilbert - Church App Parts 1-3
 
