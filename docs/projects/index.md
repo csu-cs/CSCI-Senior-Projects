@@ -40,7 +40,7 @@
 
 - [**Documentation of Portfolio**](https://github.com/user-attachments/files/29291519/Benji.Powell.Senior.Portfolio.pdf?raw=true)
 - [**Documentation of Clouded Horizons**](https://github.com/user-attachments/files/29295234/Clouded.Horizons.-.Benji.Powell.pdf)
-- **Abstract**: The basic idea of this project is that of a console role-playing game with an original storyline that pits the player against the forces of an acnient being. The project was created using several different pieces of software, including: Microsoft Visual Studio 2005, XNA GAme Studio 2.0 add-on for Visual Studio, Microsoft Cross-Platform Audio Creation Tool (XACT), Title Studio, Macromedia Fireworks. 
+- **Abstract**: The basic idea of this project is that of a console role-playing game with an original storyline that pits the player against the forces of an acnient being. The project was created using several different pieces of software, including: Microsoft Visual Studio 2005, XNA Game Studio 2.0 add-on for Visual Studio, Microsoft Cross-Platform Audio Creation Tool (XACT), Title Studio, Macromedia Fireworks. 
 
 ## Mike Havens - BitMangler 
 
