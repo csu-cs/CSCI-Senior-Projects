@@ -9,7 +9,7 @@
 ## Jonah King - 3-D Space Shooter 
 
 - [**Documentation**](https://github.com/user-attachments/files/29263679/3-D.Space.Shooter.-.Jonah.King.pdf?raw=true)
-- **Abstract**: "In order to make the greatness of my senior project happen I used Unity, Visual Studio, and C#. Unity is a game development software that uses a sophisticated UI to make programming for games a much more manageable task. It makes it easier to hookup different prefabs to code Scripts and then develop scenes that a user can play out in a game. I also used Unities Asset store to get all of my models and sound bites that I used in the project. I chose C# because Unities scripts are meant to be constructed using C# and defaults to Visual studio which automagically connects the code you construct to the physical game." 
+- **Abstract**: This project used Unity, Visual Studio, and C#. Unity is a game development software that uses a sophisticated UI to make programming for games a much more manageable task. It makes it easier to hookup different prefabs to code Scripts and then develop scenes that a user can play out in a game. This project also used Unities Asset store to get all of the models and sound bites that were used in the project. C# was used because Unities scripts are meant to be constructed using C# and defaults to Visual studio which automagically connects the code you construct to the physical game.
 
 ## Andal & Tibayan - 3D Video Conference Parts 1 and 2 
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29290509/3D.Video.Conference.Part.1.-.Andal.Tibayan.pdf?raw=true)
@@ -19,10 +19,12 @@
 ## Austin Richards - A Tour of Cryptography 
 
 - [**Documentation**](https://github.com/user-attachments/files/29290746/A.Tour.of.Cryptography.-.Austin.Richards.pdf?raw=true)
+- **Abstract**: "Block Ciphers allow the output result to be approximately the same size as the message, rounded up (like a ceiling function) to the nearest whole block. The current trend in block sizes tend to be about 64 bits, with the forecast of increasing this to 128 bits. Block Ciphers tend to operate at a reasonable speed, yet offer reasonable protection at the same time." 
 
 ## Christopher Corbett - Analysis and Design 
 
 - [**Documentation**](https://github.com/user-attachments/files/29290790/Analysis.and.Design.-.Christopher.Corbett.pdf?raw=true)
+- 
 
 ## Christopher Aumen - Arbiter 
 
