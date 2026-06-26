@@ -45,6 +45,7 @@
 ## Mike Havens - BitMangler 
 
 - [**Documentation**](https://github.com/user-attachments/files/29291554/BitMangler.-.Mike.Havens.pdf?raw=true)
+- **Abstract**: BitMangler is an audio plugin utilizing Steinberg's Virutal Studio Technology (VST) interface. The VST standard has been adopted as one of the top three plugin formats for digital audio workstations (DAWs). BitMangler is an effect VST whose primary feature is 'BitMangling', an original take on traditional bitcrushing algorithms. BitMangler also applies traditional delay and single pole low-pass filter algorithms on the west signal. 
 
 ## Brett Bryant - Senior Portfolio Review 
 
