@@ -24,11 +24,12 @@
 ## Christopher Corbett - Analysis and Design 
 
 - [**Documentation**](https://github.com/user-attachments/files/29290790/Analysis.and.Design.-.Christopher.Corbett.pdf?raw=true)
-- 
+- **Abstract**: The Capital Way Food Mart in Springfield, SC uses a very outdated and inefficient system of carrying out all of its pump reconciliations from day to day. This design will enable the store to automate their system - allowing them to keep better records. 
 
 ## Christopher Aumen - Arbiter 
 
 - [**Documentation**](https://github.com/user-attachments/files/29291334/Arbiter.-.Christopher.Aumen.pdf?raw=true)
+- **Abstract**: This project will implement a framework for conducting a programming competition at a local level, specifically on the Charleston Southern University Campus. The goal is to provide a system that the university's competitive programming team can use to hone their skills for the competitions that they compete in. 
 
 ## Ashley Ward - Gifting Made Easy Parts 1 and 2
 
@@ -39,6 +40,7 @@
 
 - [**Documentation of Portfolio**](https://github.com/user-attachments/files/29291519/Benji.Powell.Senior.Portfolio.pdf?raw=true)
 - [**Documentation of Clouded Horizons**](https://github.com/user-attachments/files/29295234/Clouded.Horizons.-.Benji.Powell.pdf)
+- **Abstract**: The basic idea of this project is that of a console role-playing game with an original storyline that pits the player against the forces of an acnient being. The project was created using several different pieces of software, including: Microsoft Visual Studio 2005, XNA GAme Studio 2.0 add-on for Visual Studio, Microsoft Cross-Platform Audio Creation Tool (XACT), Title Studio, Macromedia Fireworks. 
 
 ## Mike Havens - BitMangler 
 
