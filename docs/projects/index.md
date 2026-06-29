@@ -126,6 +126,7 @@
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29295994/Danger.with.Digital.Forensics.Part.1.-.Garling.pdf)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29296034/Danger.with.Digital.Forensics.Part.2.-.Garling.pdf)
 - [**Documentation Part 3**](https://github.com/user-attachments/files/29296047/Danger.with.Digital.Forensics.Part.3.-.Garling.pdf)
+- **Abstract**: Safely deleting sensitive data from non-volatile data storage before refurbishing is a persistent problem as many programs exist to recover information. Furthermore, recent publications like McAfee's report, The Hidden Data Economy, provide monetary amounts for certain sensitive information, like estimated prices per payment card number provide with CVV2. This paper determines the possibility of individuals benefitting from the selling and illegal use of information. This research includes the probability and accessibility of recoverable personal and sensitive information from flash drives after individuals dispose of them believing that the information can no longer be retrieved or viewed. Sensitive information includes, but is not limited to, credit cards numbers, phone numbers, addresses, and social security numbers.
 
 ## Dave Coons - Senior Project Parts 1 and 2 
 
