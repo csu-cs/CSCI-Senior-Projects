@@ -155,29 +155,34 @@
 ## Dru Sepulveda - Parts 1 and 2
 
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29296408/Dru.Sepulveda.Part.1.pdf)
-- [**Documentation Part 2**](https://github.com/user-attachments/files/29296418/Dru.Sepulveda.Part.2.pdf)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/29296418/Dru.Sepulveda.Part.2.pdf) 
 
 ## Tim Coker & John Varnadore - ESS System Parts 1-3
 
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29296455/ESS.System.Part.1-.Tim.Coker.John.Varnadore.pdf)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29296460/ESS.System.Part.2-.Tim.Coker.John.Varnadore.pdf)
 - [**Documentation Part 3**](https://github.com/user-attachments/files/29296468/ESS.System.Part.3-.Tim.Coker.John.Varnadore.pdf)
+- **Abstract**:The purpose of the project is to write a system that will allow users (employees) to update their personal information through the corporate intranet. 
 
 ## Kyle Addy - Factory Simulator Sandbox Game 
 
 - [**Documentation**](https://github.com/user-attachments/files/29296545/Factory.Simulator.Sandbox.Game.-.Kyle.Addy.pdf)
+- **Abstract**: This project is a video game where the only way to interact with the environment is through robots that the player builds and programs to perform different tasks. This game is enjoyable and helps teach the basic knowledge of any programming language such as If Else statements, For Loops, and While Loops. It does this by using "programming blocks" that the user organizes in any order, which each robot will then use as a list of commands to follow. 
 
 ## Noah Shuler - FitnessJust4You!
 
 - [**Documentation**](https://github.com/user-attachments/files/29296593/FitnessJust4You.Noah.Shuler.pdf)
+- **Abstract**: It is a fitness website to help others lose or gain weight in a healthy way. 
 
 ## Jeffrey Havens - GED Phone 
 
 - [**Documentation**](https://github.com/user-attachments/files/29296610/GED.Phone.-.Jeffrey.Havens.pdf)
+- **Abstract**: Although 90% of American adults own a cell phone, only 64% own a smartphone. Those feature phone users have voice and SMS services, but lack the myriad of non-communication features smartphones provide. This project implements a way to communicate with a server through SMS in order to receive information not otherwise readily available. A user sends an SMS message containing commands to a predefined phone number. The commands, taking the form of a textual user interface, are evaluated by a Python program running on a web server. 
 
 ## Michael Lord - Gesture Recognition and Control 
 
 - [**Documentation**](https://github.com/user-attachments/files/29296649/Gesture.Recognition.and.Control.-.Michael.Lord.pdf)
+- **Abstract**: This project aims to create a method of controlling a standard computer through the use of gestures such as waving a hand to the left to page through the documents. To make the system as user friendly and cost efficient as possible, the project aims to use nothing more than a standard webcam to provide this functionality. Potential applications of the project include byt are not limited to controlling a computer courser, video game simulations, specific software navigation and further knowledge or research into the concepts of facial recognition and electronic recognition of emotions. The project can potentially lead to new and advanced ideas or improvements in many realms of computer science. 
 
 ## Michia Rohrssen - Google Abuser 
 
