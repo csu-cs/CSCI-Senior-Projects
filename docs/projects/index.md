@@ -194,18 +194,22 @@
 ## Oscar Smalls Jr. - Home and Away Bear 
 
 - [**Documentation**](https://github.com/user-attachments/files/29299870/Home.and.Away.Bear.-.Oscar.Smalls.Jr.pdf)
-
+- **Abstract**: The goal of this project is to create a device that can be used with a home computer and at a museum or similar type of attraction equipped to communicate with the device. The device will be in the form of a bear to appeal to children. When the device is used at home with software that can communicate with the device, it will wirelessly provice a unique computer experience where the device and the computer speak to each other in response to the user's choices on the computer screen. If the device is taken to an attraction with exhibits that can communicate with it, the device will tell the user about the exhibit in the attraction when the device passes by that exhibit. 
+  
 ## Tameka Huger and Amanda Ringer Project 
 
 - [**Documentation**](https://github.com/user-attachments/files/29299919/Huger.and.Ringer.pdf)
+- **Abstract**: This database is intended to keep records of the current mission trip opportunities available to the church. The database will allow users to search for trips according to the location and cost. It will also record the age range for which this trip is the most appropriate, and a short summary description of the trip. This database will house contact information for each individual trip. The organization through which the trip is being made, the appropriate contact person, and a phone number will also be made available. A search may also be done by organizations. For instance, if an individual would like to go on a trip sponsored by a specific organization, a search may be done by organization. 
 
 ## Aryan Dale and Corin Blake- Institutional Effectiveness Committee 
 
 - [**Documentation**](https://github.com/user-attachments/files/29302458/Institutional.Effectiveness.Committee.-.Dale.Blake.pdf)
+- **Abstract**: Institutional Effectiveness Committee (IEC) of Charleston Southern University is responsible for tracking the assessment standards of each academic department and their supporting sections. These standards are used during the accreditation review process to measure overall improvement of each department. Currently the standards are typed into a word document and printed before being submitted as official criteria. Also, there is not a center storage location for the word documents. The IEC has expressed a need to automate the "IEC worksheet", and store the electronic files on a centrally located database. 
 
 ## Brandon Caddow-Young - Internet Controlled Car 
 
 - [**Documentation**](https://github.com/user-attachments/files/29302474/Internet.Controlled.Car-.Brandon.Caddow-Young.pdf)
+- **Abstract**: The objective was to transform a radio frequency remote controlled car with a limited range into a radio frequency internet controlled car with an 'unlimited range'. Another objective was to enable the user to control the vehicle from a number of different devices using various different methods of communication. 
 
 ## Jackson Crist - Interstella Synth VST
 
