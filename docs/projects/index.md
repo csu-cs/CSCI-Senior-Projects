@@ -86,6 +86,7 @@
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29292241/Church.App.Part.1.-.Chris.Gilbert.pdf?raw=true)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29292257/Church.App.Part.2.-.Chris.Gilbert.pdf)
 - [**Documentation Part 3**](https://github.com/user-attachments/files/29292370/Church.App.Part.3.-.Chris.Gilbert.pdf)
+- **Abstract**: The concept was to create an app to allow church members to stay up-to-date with the church. It would also allow users to watch the sermons wherever they are, in addition to keep track of which sermons have been watched, allow users to search for a past sermon, and provide a summary of each sermon. It would also provide the user with information about the church. 
 
 ## Carla Contreras - Civics Quiz 
 
@@ -94,6 +95,7 @@
 ## Andrew Matthews - Client Server Texas Hold'Em
 
 - [**Documentation**](https://github.com/user-attachments/files/29295174/Client.Server.Texas.Hold.Em.-.Andrew.Matthews.pdf)
+- **Abstract**: 
 
 ## Joe Boros - COINS Network Overhaul 
 
