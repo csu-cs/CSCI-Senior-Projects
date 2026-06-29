@@ -136,6 +136,7 @@
 ## Wilson Holiday - Desk Lamp and Phone Application 
 
 - [**Documentation**](https://github.com/user-attachments/files/29296184/Desk.Lamp.and.Phone.Application.-.Wilson.Holiday.pdf)
+- **Abstract**: The name of this Senior Project is the LovellLight system. It consists of the LovellLight itself (made up of 3-D printed parts, a gooseneck lamp neck with lampshade, and many electronics components that are inside of the lamp that keep it running), as well as a companion phone app called the LovellLight Companion (LLC). The system works by having power provided to the light source and Arduino in the lamp through ports on the side, and using the app to either search for the Bluetooth in the lamp for pairing in an unpaired list, or choose the lamp for pairing through a paired list. Once the user has pressed on the list item containing the information for the user, the user waits for the connection to go through, and is then brought to a screen that allows them to change the LovellLight's light setting to their likings. Due to the nature of the gooseneck lamp part and the unlimited colors that the user can create, the LovellLight's system is entirely based around flexibility and practicality. 
 
 ## Daniel Helton - DHTML Inc. Parts 1 and 2 
 
