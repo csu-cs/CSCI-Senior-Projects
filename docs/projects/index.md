@@ -95,7 +95,7 @@
 ## Andrew Matthews - Client Server Texas Hold'Em
 
 - [**Documentation**](https://github.com/user-attachments/files/29295174/Client.Server.Texas.Hold.Em.-.Andrew.Matthews.pdf)
-- **Abstract**: 
+- **Abstract**: A client-server Texas Hold'Em card game with an AI component. A first player will run the server-side application in which they can choose for three other players to be either AI or client players. The server-side application will then wait until all clients have connected before starting the game. On the client-side application, upon starting the application, the player will have to enter the IP address of the server-side application, upon starting the application, the player will have to enter the IP address of the server-side application. The port number is hard coded into both sides as 3000, and the server-side application is configured to accept any IP address trying to connect. Once the number of clients to connect is equal to the amount specified at the start screen, the game will then proceed for all parties. 
 
 ## Joe Boros - COINS Network Overhaul 
 
@@ -109,10 +109,12 @@
 ## Brown & Harrell - College 4 Less 
 
 - [**Documentation**](https://github.com/user-attachments/files/29295430/College.4.Less.-.Brown.Harrell.pdf)
+- **Abstract**: College4Less is an online store designed for college students to purchase laptop computers. 
 
 ## Jay Cooke - Course Evaluations 
 
 - [**Documentation**](https://github.com/user-attachments/files/29295479/Course.Evaluations.-.Jay.Cooke.pdf)
+- **Abstract**: The primary business benefits obtained by a new course evaluation system will increase efficiency and productivity. The most obvious benefits will be 1) eliminating the need for multiple manual entry of the data 2) reduce errors resulting from manual multiple input by 100% 3) reduce the need for future hiring in Admissions and Administration 4) result on cost efficiency associated with the increased productivity of the staff 5) accessibility provided by increased use of the internet 6) reduce labor hours of staff from 150-200 hours to 20 hours 7) increase response rate from 67% to 100%, 8) reduce costs from $2,100 to $1,650 per year for supplies and 9) retain anonynous course evaluations. 
 
 ## Brian Cowan - Dalek Invaders 
 
