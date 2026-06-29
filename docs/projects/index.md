@@ -187,11 +187,9 @@
 ## Michia Rohrssen - Google Abuser 
 
 - [**Documentation**](https://github.com/user-attachments/files/29296675/Google.Abuser.-.Michia.Rohrssen.pdf)
+- **Abstract**: The main goal of the Google Abuser is to reverse engineer the rankings of a specific keyword and provide suggestions on how to increase the rankings of your website. This has many commercial and personal applications. 
 
-## TJ Moore - Google Maps Gadget Parts 1 and 2 
-
-- [**Documentation Part 1**](https://github.com/user-attachments/files/29299841/Google.Maps.Gadget.Part.1.-.TJ.Moore.pdf)
-- [**Documentation Part 2**](https://github.com/user-attachments/files/29299847/Google.Maps.Gadget.Part.2.-.TJ.Moore.pdf)
+## TJ Moore???? - Google Maps Gadget Parts 1 and 2 
 
 ## Oscar Smalls Jr. - Home and Away Bear 
 
