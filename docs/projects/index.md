@@ -214,6 +214,7 @@
 ## Jackson Crist - Interstella Synth VST
 
 - [**Documentation**](https://github.com/user-attachments/files/29302548/Interstella.Synth.VST.-.Jackson.Crist.pdf)
+- **Abstract**: The project is a virtual synthesizer plug-in using the Virtual Studio Technology (VST) framework, whuich was released by Steinberg in 1996. It is an audio plug-in interface for use with Digital Audio Workstation (DAW) programs like FL Studio, Ableton, or Cubase. VSTs use DSP, or Digital Signal Processing, to stimulate synthesizer/effects hardware, like a synth or compressor. 
 
 ## Justin Andre - iOS5 Development Essemtials
 
