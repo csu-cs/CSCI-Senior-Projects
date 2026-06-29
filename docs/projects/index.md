@@ -150,6 +150,7 @@
 - [**Documentation Part 3**](https://github.com/user-attachments/files/29296299/Dream.Weaver.Part.3-.Walter.Browning.pdf)
 - [**Documentation Part 4**](https://github.com/user-attachments/files/29296319/Dream.Weaver.Part.4-.Walter.Browning.pdf)
 - [**Documentation Part 5**](https://github.com/user-attachments/files/29296336/Dream.Weaver.Part.5-.Walter.Browning.pdf)
+- **Abstract**: The purpose of this project is to provide the University Relations department at Charleston Southern University with a website that will expedite the processes of Event Coverage Requests and web postings of Press Releases and External Articles. 
 
 ## Dru Sepulveda - Parts 1 and 2
 
