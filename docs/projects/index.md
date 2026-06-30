@@ -285,6 +285,7 @@
 ## Chris Angura - Meta Directory Services (MDS) 
 
 - [**Documentation**](https://github.com/user-attachments/files/29304617/Meta.Directory.Services.MDS.-.Chris.Angura.pdf)
+- **Abstract**: The objective of this research paper is to try to reveal what Meta Directory Services (MDS) are and the crucial role they have in an IT infrastructure and in Business. The paper mentions what qualities are required from a provider of MDS. The solutions provided by MDS ought to significantly reduce the costs of managing all the directories and databases in the enterprise and provide the enabling technology benefits of a Corporate Directory (CD) for B2B commerce and eBusiness. 
 
 ## Michael Lord 
 
