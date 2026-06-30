@@ -267,6 +267,7 @@
 ## Randall & Garbeil - Lessons in Information Quality
 
 - [**Documentation**](https://github.com/user-attachments/files/29303814/Lessons.in.Information.Quality.-.Randall.Garbeil.pdf)
+- **Abstract**: This report outlines the Computer and Information Systems department's part of a thirty-week grant from the National Institute of Justice (NIJ) awarded based on an application by Dr. Sessions. This grant is an effort by Dr. Sessions to continue her valuable work by creating an example or demonstration of analysis tools and the reasons they should be used. By applying rigorous mathematical analysis of data sets, it should be possible to greatly reduce the incidents of hours lost due to bad data. The continuation of the work to set the next stage is actually using the processes developed by Dr. Sessions. Before this can happen, small Law Enforcement agencies must be convinced that Information Quality Assessments are not a waste of their time. Small agencies are strapped for time and man-power and thus are not easily swayed to use these tools. The idea of showing them how bad data can effectively waste days of time in the form of training type videos and web pages. 
 
 ## Marcus Alexander and Joshua Satterfield - Lock 
 
