@@ -272,6 +272,7 @@
 ## Marcus Alexander and Joshua Satterfield - Lock 
 
 - [**Documentation**](https://github.com/user-attachments/files/29304037/Lock.-.Marcus.Alexander.Joshua.Satterfield.pdf)
+- **Abstract**: In this project it was investigated how to wirelessly lock and unlock a door with off the shelf parts. The goal of this project is to create a system that is both affordable and secure for future homes. An Arduino, Arduino Wi-Fi Shield With Android as the platform was used. A protocol was designed that utilizes the transport layer protocol UDP for communication betweem an Android smartphone and the platform. We are able to successfully lock and unlock a door wirelessly. There are isssues remaining to be resolved. The form factor needs to be reduced for better integration with the user's door. Integrating with the Touch-ID API for added security in case of a lost device must be accomplished as well. This will be a step to avoiding storing the key on the mobile device, increasing safety. 
 
 ## Matthew Buchanan - Senior Defense 
 
