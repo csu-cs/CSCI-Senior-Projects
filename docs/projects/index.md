@@ -299,11 +299,13 @@
 ## Milleina Ohara - Money Planner
 
 - [**Documentation**](https://github.com/user-attachments/files/29304784/Money.Planner.-.Milleina.Ohara.pdf)
+- **Abstract**: MoneyPlanner is a personal finance planner for anyone that wants to keep their finances organized simple and easy. Features like keeping track of expenses and income and creating a budget plan for future expenses can help users manage their finances better. Other special features of this app include customizable categories and saving goals features. 
 
 ## James Openshaw - Multimedia Player's Assistant Parts 1 and 2
 
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29304851/Multimedia.Player.s.Assistant.Part.1.-.James.Openshaw.pdf)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29304867/Multimedia.Player.s.Assistant.Part.2.-.James.Openshaw.pdf)
+- **Abstract**: The primary objective of The Multimedia Player's Assistant is to implement the WMP ActiveX Component in a simple program. 
 
 ## Dave Coons 
 
