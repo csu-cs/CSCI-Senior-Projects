@@ -310,6 +310,7 @@
 ## Dave Coons 
 
 - [**Multiple Axis Rendered Interface**](https://github.com/user-attachments/files/29304912/Multiple.Axis.Rendered.Interface.-.Dave.Coons.pdf)
+- **Abstract**: Multiple Axis Rendered Interface (MARIE) is an attempt to utilize modern digital devices to explore what the next generation of desktop computer user interfaces can offer. Marie ditches the conventional 'desktop' approach to interacting with the OS, and tries to re-imagine what kind of user interface would seem natural. I finally decided on a room that would function as a virtual world that the user could navigate through.
 - [**Superfetch and Readyboost**](https://github.com/user-attachments/files/29338113/Superfetch.and.readyboost.-.Dave.Coons.pdf)
 
 ## Chad Droze - Music Unlimited Parts 1 and 2
