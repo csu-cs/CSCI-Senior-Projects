@@ -216,9 +216,10 @@
 - [**Documentation**](https://github.com/user-attachments/files/29302548/Interstella.Synth.VST.-.Jackson.Crist.pdf)
 - **Abstract**: The project is a virtual synthesizer plug-in using the Virtual Studio Technology (VST) framework, whuich was released by Steinberg in 1996. It is an audio plug-in interface for use with Digital Audio Workstation (DAW) programs like FL Studio, Ableton, or Cubase. VSTs use DSP, or Digital Signal Processing, to stimulate synthesizer/effects hardware, like a synth or compressor. 
 
-## Justin Andre - iOS5 Development Essemtials
+## Justin Andre - iOS5 Development Essentials
 
 - [**Documentation**](https://github.com/user-attachments/files/29302791/iOS.5.Development.essentials-.Justin.Andre.pdf)
+- **Abstract**: The purpose of this project is to learn to develop applications for iPhones and iPads using the iOS 5 SDK. The process by which this will occur is through converting online and written tutorials into a media library that can be used for reference and teaching purposes. This will be done using the iPhone iOS 5 Development Essentials book by Neil Smyth. 
 
 ## Justin Andre - Senior Portfolio
 
@@ -227,14 +228,17 @@
 ## Justin Jenkins and Josiah Vergonio - iPhone RC Car
 
 - [**Documentation**](https://github.com/user-attachments/files/29302840/iPhone.RC.Car.-.Jenkins.Vergonio.pdf)
+- **Abstract**: This project will use an iPhone/iPod Touch to view live video feed from a wireless video camera and control the movemement from the Radio Controlled (R/C) Car. 
 
 ## Jason Davis - Mobile Ad Hoc Networking 
 
 - [**Documentation**](https://github.com/user-attachments/files/29302850/Jason.Davis.-.Mobile.Ad.Hoc.Networking.pdf)
+- **Abstract**: A mobile ad hoc network consists of wireless mobile hosts that communicate with each other in the absence of a fixed infrastructure. A few characteristics of the mobile ad hoc network (MANET) consists of having wireless connections, being self-organized, and having no fixed infrastructure. There are many people who can all automobile drivers. There are many approaches that attempt to make ad hoc networking efficient and optimal as possible. One algorithm that has been proposed is Multicast flooding. Flooding is said by many to be the simplest multicast routing algorithm. Flooding can be used to deliver packets to nodes within a location-based multicast group. Another algorithm is the location-based multicast algorithm, which uses multicast flooding with a defined forwarding zone. There are several proposed schemes that attempt to improve accuracy of multicast delivery and the overhead of the multicast delivery, although there is a trade-off between accuracy and overhead. 
 
 ## Joshua Joseph - Joseph & Sons 
 
 - [**Documentation**](https://github.com/user-attachments/files/29302890/Joshua.Joseph.-.Joseph.Sons.pdf)
+- **Abstract**: This database is used to electronically keep track of estimates given by Joseph and Sons Termite and Pest Control and customers who the estimates are given to. 
 
 ## Josiah Vergonio - Senior Portfolio Parts 1 and 2
 
@@ -258,6 +262,7 @@
 
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29303422/Kids.Jukebox.USA.-.Aleisha.Vrooman.pdf)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29303453/Kids.Jukebox.USA.Part.2.-.Aleisha.Vrooman.pdf)
+- **Abstract**: Kids JukeBox USA knows that in order to remain competitive with personalized CD's for children, they must have a working webpage that allows users to order available merchandise. Specifically, there must be a user friendly website in order for the users to search easily and to order their product with a reliable database. Also, the variety of product and customized systems should be considered for the customer. A system will be created which lets the user choose from a variety of different CD's, storybooks, etc., with a variety of names to insert into each CD. This system will also allow input of the customer's personal information so that shipping and billing is possible. 
 
 ## Randall & Garbeil - Lessons in Information Quality
 
