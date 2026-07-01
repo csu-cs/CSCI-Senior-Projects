@@ -453,17 +453,20 @@
 ## Chase Freshwater and William Conroy - Unreal Engine 4 
 
 - [**Documentation**](https://github.com/user-attachments/files/29339727/Unreal.Engine.4.-.Chase.Freshwater.and.William.Conroy.pdf)
+- **Abstract**: This project is a game that is best described as Rogue-Light Third-Person Shooter. Rogue-Light as a genre refers to games with non-continuous gameplay sessions "runs" that are based on a combination of skilled play from the players challenges and boons. Third-Person Shooter refers to gameplay that involves an over-the-shoulder camera view on a player character that is equipped with ranged or melee attacks aimed by the player's cursor. 
 
 ## Kristin Lewis - Vendor Management System Parts 1 and 2
 
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29339767/Vendor.Management.System.Part.1.-.Kristin.Lewis.pdf)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29339780/Vendor.Management.System.Part.2.-.Kristin.Lewis.pdf)
+- **Abstract**: The Vendor Management system (VMS) is an application bringing together procurement, contracts, accounting personnel and vendors to set up vendors in a way that is visible across areas of the company, accurately capturing all required data for compliance, and keeping it as simple as possible for SCRA associates and vendors. 
 
 ## Katherine Rodreick - VHDL Tutorials Parts 1-3
 
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29340325/VHDL.Tutorials.Part.1.-.Katherine.Rodreick.pdf)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29340331/VHDL.Tutorials.Part.2.-.Katherine.Rodreick.pdf)
 - [**Documentation Part 3**](https://github.com/user-attachments/files/29340338/VHDL.Tutorials.Part.3.-.Katherine.Rodreick.pdf)
+- 
 
 ## Thomas Finch - Virtual Reality Tour
 
