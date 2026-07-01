@@ -150,6 +150,7 @@
 - [**Documentation Part 3**](https://github.com/user-attachments/files/29296299/Dream.Weaver.Part.3-.Walter.Browning.pdf)
 - [**Documentation Part 4**](https://github.com/user-attachments/files/29296319/Dream.Weaver.Part.4-.Walter.Browning.pdf)
 - [**Documentation Part 5**](https://github.com/user-attachments/files/29296336/Dream.Weaver.Part.5-.Walter.Browning.pdf)
+- [**PowerPoint**](https://github.com/user-attachments/files/29339654/University.Relations.Website.-.Walter.K.Browning.IV.pdf)
 - **Abstract**: The purpose of this project is to provide the University Relations department at Charleston Southern University with a website that will expedite the processes of Event Coverage Requests and web postings of Press Releases and External Articles. 
 
 ## Dru Sepulveda - Parts 1 and 2
@@ -370,7 +371,7 @@
 ## Michelle Duffy - Ritmo 
 
 - [**Documentation**](https://github.com/user-attachments/files/29336493/Ritmo.-.Michelle.Duffy.pdf)
-- **Abstract**: Ritmo (meaning "rhythm" in Spanish) is a Windows Form program written in C# designed to play audio by utilizing the nAudio library. It was created using Microsoft Visual 
+- **Abstract**: Ritmo (meaning "rhythm" in Spanish) is a Windows Form program written in C# designed to play audio by utilizing the nAudio library. It was created using Microsoft Visual Studio 2010 on a computer running Windows 7. The goal of this project was to create a program outside the classroom setting and develop it through the entire process from concept to completion while learning and using an open-source library. 
 
 ## Anthony Johnson - Schedule Builder 
 
@@ -392,6 +393,7 @@
 
 - [**Documentation Senior Portfolio**](https://github.com/user-attachments/files/29337221/Senior.Portfolio.-.Markowitz.Frost.pdf)
 - [**Documentation Touchless SDK**](https://github.com/user-attachments/files/29339419/Touchless.SDK.-.Markowitz.Frost.pdf)
+- **Abstract**: A significant portion of the technology world is aware of the Microsoft Kinect, designed for Xbox 360, and what features it offers to developers and users. These same people are also aware of the effort Microsoft has put towards advertising the possibility of what the Kinect can do and what it has to offer the world. They recently released a Kinect SDK for Windows to allow users to explore the possibilities of the hardware which included integrating it with Windows 7/8. The disadvantage behind this is that a developer woudl have to purchase an expensive piece of hardware to gain this functionality. The purpose behind this project is to allow users or developers to use the hardware already included as standard in most computers to perform similar functions. You would be able to use your webcam to control Windows 7/8 in the same manner as you would if you were using a touch screen, but the cost for the extra hardware would not be necessary. 
 
 ## Stephen Thackston 
 
@@ -414,6 +416,7 @@
 ## Jared Dingus, Sandeep Reddy, and Paul Stubblefield - Senior Project Defense 
 
 - [**Documentation**](https://github.com/user-attachments/files/29337754/Senior.Project.Defense.-.Dingus.Reddy.Stubblefield.pdf)
+- **Abstract**: A database that will contain the names of the men and women's tennis team players at CSU, their results, player statistics, and recruiting information.
 
 ## Igor Smirnov - Senior Project Design 
 
@@ -422,10 +425,12 @@
 ## Richard Drummond - Solving Games Using AI 
 
 - [**Documentation**](https://github.com/user-attachments/files/29337924/Solving.Games.using.AI.-.Richard.Drummond.pdf)
+- **Abstract**: This project focuses on using Artificial Intelligence along with a Genetic algorithm in order to evolve to play the games Flappy Bird and Snake. The games used are not the original versions; however, they have been coded to replicate their mechanics and playstyles. The "brain" of the program will evolve over time and make educated decisions in order to progress itself through these games. These decisions are based on a reward system as well as associated weights and biases within the neural network. The AI is rewarded for its progression and punished for mistakes. 
 
 ## Wendy Stengel - Sudoku Puzzle Solving Robot 
 
 - [**Documentation**](https://github.com/user-attachments/files/29338045/Sudoku.Puzzle.Solving.Robot.-.Wendy.Stengel.pdf)
+- **Abstract**: This project has two main components: a C++ program that efficiently solves all 9x9 Sudoku puzzles and a robot capable of writing the digits 1-9, as well as a few letters. The robot was built using Lego Mindstorms NXT 2.0, and the code for its motion was written in NXC (Not Exactly C). 
 
 ## Angela Washington and Ananth Raghuraman - System Profile Parts 1-5 
 
@@ -434,6 +439,7 @@
 - [**Documentation Part 3**](https://github.com/user-attachments/files/29339132/System.Profile.Part.3.-.Raghuraman.Washington.pdf)
 - [**Documentation Part 4**](https://github.com/user-attachments/files/29339198/System.Profile.Part.4.-.Raghuraman.Washington.pdf)
 - [**Documentation Part 5**](https://github.com/user-attachments/files/29339226/System.Profile.Part.5.-.Raghuraman.Washington.pdf)
+- **Abstract**: This is a project meant to upgrade the registration process, to make it easier and less tedious for all parties involved. It facilitates the process of registration by reducing the physical exertion involved in the task of registration. 
 
 ## Taylor Perry - Senior Portfolio 
 
@@ -442,10 +448,7 @@
 ## David McLaughlin - Unity 
 
 - [**Documentation**](https://github.com/user-attachments/files/29339611/Unity.-.David.McLaughlin.pdf)
-
-## Walter K. Browning, IV - University Relations Website 
-
-- [**Documentation**](https://github.com/user-attachments/files/29339654/University.Relations.Website.-.Walter.K.Browning.IV.pdf)
+- **Abstract**: Unity is a cross-platform Game Engine used to make games for consoles, PCs and websites. Unity developers either use C# or JS to develop games. 
 
 ## Chase Freshwater and William Conroy - Unreal Engine 4 
 
