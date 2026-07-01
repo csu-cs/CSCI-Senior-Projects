@@ -317,34 +317,41 @@
 
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29304947/Music.Unlimited.-.Chad.Droze.Part.1.pdf)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29304965/Music.Unlimited.-.Chad.Droze.Part.2.pdf)
+- **Abstract**: A project to provide a quick and efficient way to create, manage, and track orders received for a Disc Jockey business. In addition, the system will allow users to compuerize the music and other equipment used for the business, which will give total knowledge of and about a user's inventory. 
 
 ## Jason Anderson - OG Sportswear 
 
 - [**Documentation**](https://github.com/user-attachments/files/29304998/OG.Sportswear.-.Jason.Anderson.pdf)
+- **Abstract**: A website to expand a sportswear company's customer base, to be able to shop and choose uniforms and colors that they would like to purchase from the privacy of their homes 24 hours a day/7 days a week. 
 
 ## Karen Thurston - On Course 
 
 - [**Documentation**](https://github.com/user-attachments/files/29305018/On.Course.-.Karen.Thurston.pdf)
+- **Abstract**: A system that uses Q-Sort Methodology (McKeown & Thomas, 1988) to evaluate University courses by automating the analysis of the evaluations, store and manipulate the evaluation data, and generate valuable reports on progress. 
 
 ## Joshua Blount - Online Grade Book Parts 1 and 2
 
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29305074/Online.Grade.Book.Part.1.-.Joshua.Blount.pdf)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29305100/Online.Grade.Book.Part.2.-.Joshua.Blount.pdf)
+- **Abstract**: The purpose of this is to have an online report card database to provide schools an easy ans secure way to store their data, and allow parents to see how their children are doing throughout the entire school year. It will also allow teachers and parents to communicate on a daily basis about the child's education instead of waiting for PTA meetings or other appointments. It would also be a bridge to a gap between parents and their children's education by getting them involved and letting them know how their children are doing and what they can do to help.  
 
 ## Oscar Smalls Jr. - Senior Portfolio Parts 1-3
 
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29308070/Oscar.Smalls.Jr.Senior.Portfolio.Part.1.pdf)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29308083/Oscar.Smalls.Jr.Senior.Portfolio.Part.2.pdf)
 - [**Documentation Part 3**](https://github.com/user-attachments/files/29308107/Oscar.Smalls.Jr.Senior.Portfolio.Part.3.pdf)
+- 
 
 ## Christopher Wyant - Parental Keylogger Parts 1 and 2
 
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29308352/Parental.Keylogger.Part.1.-.Christopher.Wyant.pdf)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29308376/Parental.Keylogger.Part.2.-.Christopher.Wyant.pdf)
+- **Abstract**: The purpose of this project was to create a key logging program for parents to install on their children's computer. Children are often unaware of the dangers that can occur when using computers and especially the internet. Personal information can easily be shared and stolen then used in ways children would not know. It was important to make the setup of the program easy for parents and also allow customization to get the best results for the parent's specific needs. Once the program is installed, it will track keys pressed and take screen shots when "Danger Words" are typed. The program will then send the results to the parent who will need an easy and convenient way to view the results which is why the Parental Logger Viewer was created. Parents are often unaware of what children know and are capable of doing. This program helps them see what the child types when using the computer. The benefit of a program like this is that the parents has complete proof when and if the need to confront the child arises. The parent can show exactly what was typed and can show the child the image relating to the specific word typed assuming this word is a part of the Danger Words list. 
 
 ## PJ Neidlinger - Performance Model Calculator 
 
 - [**Documentation**](https://github.com/user-attachments/files/29336020/Performance.Model.Calculator.-.PJ.Neidlinger.pdf)
+- **Abstract**: This project is a basketball statistics program that will be able to compute statistics basketball of all levels. Using a player's points, rebounds, assists, steals, blocks, three pointers made, turnovers, field goals made, field goals attempted, free throws made, and free throws attempted, the program will generate a single value that will be a representation of how well the player performed for a game or set of games. This project will be a fully functional web application that users will be able to visit on the internet. 
 
 ## Eric Foster - Portfolio Review Parts 1 and 2
 
@@ -354,6 +361,7 @@
 ## James Carter - RBC inc Inventory control 
 
 - [**Documentation**](https://github.com/user-attachments/files/29336142/RBC.inc.inventory.control.James.Carter.pdf)
+- **Abstract**: The purpose of this project is to provide a faster and more efficient means of keeping inventory of raw materials. Should record materials received, materials issued to jobs, and unused materials returned to inventory. 
 
 ## Rebecca Randall - Senior Portfolio 
 
@@ -362,6 +370,7 @@
 ## Michelle Duffy - Ritmo 
 
 - [**Documentation**](https://github.com/user-attachments/files/29336493/Ritmo.-.Michelle.Duffy.pdf)
+- **Abstract**: Ritmo (meaning "rhythm" in Spanish) is a Windows Form program written in C# designed to play audio by utilizing the nAudio library. It was created using Microsoft Visual 
 
 ## Anthony Johnson - Schedule Builder 
 
