@@ -471,16 +471,19 @@
 ## Thomas Finch - Virtual Reality Tour
 
 - [**Documentation**](https://github.com/user-attachments/files/29340531/Virtual.Reality.Tour.-.Thomas.Finch.pdf)
+- **Abstract**: Google Cardboard is one of the newest technologies to hit the market. This allows the user to interact with apps to play games, take tours, and view photos in a virtual environment. Building upon this form of interaction, the Charleston Southern University Virtual Tour of Campus app allows users to take a tour of this beautiful campus. In this study, it will be determined if there is a significant difference in the performance of this app with first time users utilizing Google Cardboard and the touch screen on android based phones. This study will analyze both the time required to navigate through the campus and the number of errors committed using both forms of interaction. In addition to this, the participants will provide valuable feedback on their experience and the preferences when interacting with the app. From this data, it can be determined that both methods of interaction for first time users perform similarly, but Google Cardboard provides a more enjoyable, fuller experience. 
 
 ## Joshua Dickard - Vote Data Center 
 
 - [**Documentation**](https://github.com/user-attachments/files/29340575/Vote.Data.Center.-.Joshua.Dickard.pdf)
+- **Abstract**: Election administrators rely heavily on data. Voter registration, election results, precinct demographics, geographic data. All of these are vital to how we allot resources that will efficiently serve our voters. Unfortunately, this data is often hard to read and it is often impossible to understand trends or compute projections. Data Visualization for Election Administration seeks to help Erection Administrators make better use of the data we have available while at the same time show what further reports and data extraction might be necessary. The long-term goal of this project is to build user-friendly charts and graphs that is used to gather trends, identify areas of concern, and ultimately increase the accuracy of our resource management.
 
 ## Sean Hayes - With It 
 
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29340609/With.it.Part.1.-.Sean.Hayes.pdf)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29340624/With.It.Part.2.-.Sean.Hayes.pdf)
 - [**Power Point**](https://github.com/user-attachments/files/29340639/With.It.Power.Point.-.Sean.Hayes.pdf)
+- **Abstract**: This is a solo music analysis tool use by instrumentalists to improve and enhance their performance skill. The user is able to play along with the program which analyzes the notes of the instrument via a microphone. As the program analyzes the sound in real time, it determines the current pitch, as well as any variations in the intonation, measured in hertz. It also determines basic rhythms played by the musician. The user can load a MIDI file containing a solo and then play it while viewing the music on the screen. As the musician plays, the sound is captured. processed, and displayed in real time. The user can subsequently see how accurately he or she performed the piece. To assist the musician, a digital tuner, as well as a metronome, may be employed as part of the program and used simultaneously with the other features. In the future, the program will display a score based on pitch. intonation, and rhythm accuracy. 
 
 ## Cary Humphries - XB Monitor Parts 1 and 2
 
