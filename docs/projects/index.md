@@ -466,7 +466,7 @@
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29340325/VHDL.Tutorials.Part.1.-.Katherine.Rodreick.pdf)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29340331/VHDL.Tutorials.Part.2.-.Katherine.Rodreick.pdf)
 - [**Documentation Part 3**](https://github.com/user-attachments/files/29340338/VHDL.Tutorials.Part.3.-.Katherine.Rodreick.pdf)
-- 
+- **Abstract**: This project was about the implementation of the VDHL code in the lab manuals, **Introduction to Digital Design Using Diligent FPGA Boards* by Richard E. Haskell and Darrin M. Hanna, to find any errors and correct them.
 
 ## Thomas Finch - Virtual Reality Tour
 
