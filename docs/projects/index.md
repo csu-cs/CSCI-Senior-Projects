@@ -489,14 +489,17 @@
 
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29340663/XB.Monitor.Part.1-.Cary.Humphries.pdf)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29340673/XB.Monitor.Part.2-.Cary.Humphries.pdf)
+- **Abstract**: The XbMonitor program is a software-based system created for the Xantrex” XW series of products. The Xantrex XW products are used to control renewable energy and backup power systems. These Xantrex XW products communicate with each other through a built-in controller area network called Xanbus. The XbMonitor program is designed to connect directly to the Xanbus network by using a simple USB connection and an Apox USB to CAN converter. When connected to the network the program is able to discover, monitor, and communicate with all attached devices from a single connection point while displaying almost real-time data in a user friendly graphical display. 
 
 ## Carlos Ocasio Rodriguez - Xecure Password Manager 
 
 - [**Documentation**](https://github.com/user-attachments/files/29340715/Xecure.Password.Manager.-.Carlos.Ocasio.Rodriguez.pdf)
+- **Abstract**: The project is a password manager application for Windows computers used to securely store and manage log in credentials. It uses a ‘master’ password to provide access into the users account with all the records and credentials. The application also has connectivity to a MySQL database that is used to securely store the users information. In order to protect the information in the database the application uses the well-established AES 256 encryption standard and the SHA 256 hashing algorithm. Additionally, the users have the option to generate unique and complex passwords for every record entered. Users will also have the option of entering their own passwords and the application will guide them every step of the way. The application can also copy a record’s password into the computers clipboard. This password will then be wiped from the clipboard after fifteen seconds or if the user closes the application. Lastly, the program has features that allows users to reset their “master” password and email if they forget it or wish to change it. 
 
 ## Michael Wilcome - XNA Card Game 
 
 - [**Documentation**](https://github.com/user-attachments/files/29340749/XNA.Card.Game.-.Michael.Wilcome.pdf)
+- **Abstract**: XNA Game Studio is an add-on for Visual Studio that allows programmers to create games in C#. It comes with a few basic methods which allow the programmer to efficiently set up a game the way they want to. 
 
 ## Yon Meyer - Y.M. Inc. 
 
@@ -505,6 +508,7 @@
 ## Eric Foster - Zipf's Law 
 
 - [**Documentation**](https://github.com/user-attachments/files/29340793/Zipf.s.Law.-.Eric.Foster.pdf)
+- **Abstract**: This project builds on earlier work by Chris Nuhn and Dr. Valerie Sessions, who studied how introducing small amounts of error into five datasets affected data quality and outlier analysis. It expands their research by adding seven more datasets (for a total of twelve) and introducing a new approach that tests data completeness by removing percentages of data instead of corrupting it. The project applies Nuhn's original scripts to the new datasets and uses newly developed scripts to evaluate the effects of missing data. Although the completeness analysis did not reveal a reliable method for identifying outliers in power law or Zipfian distributions, it produced results that may support future research.
 
 
 
