@@ -190,8 +190,6 @@
 - [**Documentation**](https://github.com/user-attachments/files/29296675/Google.Abuser.-.Michia.Rohrssen.pdf)
 - **Abstract**: The main goal of the Google Abuser is to reverse engineer the rankings of a specific keyword and provide suggestions on how to increase the rankings of your website. This has many commercial and personal applications. 
 
-## TJ Moore???? - Google Maps Gadget Parts 1 and 2 
-
 ## Oscar Smalls Jr. - Home and Away Bear 
 
 - [**Documentation**](https://github.com/user-attachments/files/29299870/Home.and.Away.Bear.-.Oscar.Smalls.Jr.pdf)
