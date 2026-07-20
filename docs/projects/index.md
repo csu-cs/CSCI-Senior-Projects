@@ -108,7 +108,7 @@
 
 ## Brown & Harrell - College 4 Less 
 
-- [**Documentation**](https://github.com/user-attachments/files/29295430/College.4.Less.-.Brown.Harrell.pdf)
+- [**Documentation**]
 - **Abstract**: College4Less is an online store designed for college students to purchase laptop computers. 
 
 ## Jay Cooke - Course Evaluations 
