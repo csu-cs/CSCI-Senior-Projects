@@ -246,7 +246,7 @@
 
 ## Karen Thurston - Senior Project Milestones
 
-- [**Documentation**](https://github.com/user-attachments/files/29303021/Karen.Thurston.Senior.Project.Milestones.pdf)
+- [**Documentation**](https://github.com/user-attachments/files/30201586/Karen.Thurston.Senior.Project.Milestones.pdf)
 
 ## Katherine Rodreick - Senior Portfolio
 
