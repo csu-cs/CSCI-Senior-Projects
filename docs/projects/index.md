@@ -325,7 +325,7 @@
 
 ## Karen Thurston - On Course 
 
-- [**Documentation**](https://github.com/user-attachments/files/29305018/On.Course.-.Karen.Thurston.pdf)
+- [**Documentation**](https://github.com/user-attachments/files/30232316/On.Course.-.Karen.Thurston.pdf)
 - **Abstract**: A system that uses Q-Sort Methodology (McKeown & Thomas, 1988) to evaluate University courses by automating the analysis of the evaluations, store and manipulate the evaluation data, and generate valuable reports on progress. 
 
 ## Joshua Blount - Online Grade Book Parts 1 and 2
@@ -339,7 +339,6 @@
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29308070/Oscar.Smalls.Jr.Senior.Portfolio.Part.1.pdf)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29308083/Oscar.Smalls.Jr.Senior.Portfolio.Part.2.pdf)
 - [**Documentation Part 3**](https://github.com/user-attachments/files/29308107/Oscar.Smalls.Jr.Senior.Portfolio.Part.3.pdf)
-- 
 
 ## Christopher Wyant - Parental Keylogger Parts 1 and 2
 
@@ -377,7 +376,7 @@
 
 ## Joshua Dantzler 
 
-- [**Documentation Senior Portfolio**](https://github.com/user-attachments/files/29336639/Senior.Portfolio.-.Joshua.Dantzler.pdf)
+- [**Documentation Senior Portfolio**](https://github.com/user-attachments/files/30234339/Senior.Portfolio.-.Joshua.Dantzler.pdf)
 
 ## Justin Jenkins 
 
@@ -389,7 +388,7 @@
 
 ## Markowitz Frost 
 
-- [**Documentation Senior Portfolio**](https://github.com/user-attachments/files/29337221/Senior.Portfolio.-.Markowitz.Frost.pdf)
+- [**Documentation Senior Portfolio**](https://github.com/user-attachments/files/30234615/Senior.Portfolio.-.Markowitz.Frost.pdf)
 - [**Documentation Touchless SDK**](https://github.com/user-attachments/files/29339419/Touchless.SDK.-.Markowitz.Frost.pdf)
 - **Abstract**: A significant portion of the technology world is aware of the Microsoft Kinect, designed for Xbox 360, and what features it offers to developers and users. These same people are also aware of the effort Microsoft has put towards advertising the possibility of what the Kinect can do and what it has to offer the world. They recently released a Kinect SDK for Windows to allow users to explore the possibilities of the hardware which included integrating it with Windows 7/8. The disadvantage behind this is that a developer woudl have to purchase an expensive piece of hardware to gain this functionality. The purpose behind this project is to allow users or developers to use the hardware already included as standard in most computers to perform similar functions. You would be able to use your webcam to control Windows 7/8 in the same manner as you would if you were using a touch screen, but the cost for the extra hardware would not be necessary. 
 
@@ -434,18 +433,18 @@
 
 - [**Documentation Part 1**](https://github.com/user-attachments/files/29338422/System.Profile.Part.1.-.Raghuraman.Washington.pdf)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29339117/System.Profile.Part.2.-.Raghuraman.Washington.pdf)
-- [**Documentation Part 3**](https://github.com/user-attachments/files/29339132/System.Profile.Part.3.-.Raghuraman.Washington.pdf)
+- [**Documentation Part 3**](https://github.com/user-attachments/files/30236019/System.Profile.Part.3.-.Raghuraman.Washington.pdf)
 - [**Documentation Part 4**](https://github.com/user-attachments/files/29339198/System.Profile.Part.4.-.Raghuraman.Washington.pdf)
-- [**Documentation Part 5**](https://github.com/user-attachments/files/29339226/System.Profile.Part.5.-.Raghuraman.Washington.pdf)
+- [**Documentation Part 5**](https://github.com/user-attachments/files/30235935/System.Profile.Part.5.-.Raghuraman.Washington.pdf)
 - **Abstract**: This is a project meant to upgrade the registration process, to make it easier and less tedious for all parties involved. It facilitates the process of registration by reducing the physical exertion involved in the task of registration. 
 
 ## Taylor Perry - Senior Portfolio 
 
-- [**Documentation**](https://github.com/user-attachments/files/29339302/Taylor.Perry.Senior.Portfolio.pdf)
+- [**Documentation**](https://github.com/user-attachments/files/30236269/Taylor.Perry.Senior.Portfolio.pdf)
 
 ## David McLaughlin - Unity 
 
-- [**Documentation**](https://github.com/user-attachments/files/29339611/Unity.-.David.McLaughlin.pdf)
+- [**Documentation**](https://github.com/user-attachments/files/30236337/Unity.-.David.McLaughlin.pdf)
 - **Abstract**: Unity is a cross-platform Game Engine used to make games for consoles, PCs and websites. Unity developers either use C# or JS to develop games. 
 
 ## Chase Freshwater and William Conroy - Unreal Engine 4 
