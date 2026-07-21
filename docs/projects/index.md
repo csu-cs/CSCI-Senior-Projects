@@ -484,7 +484,7 @@
 
 ## Cary Humphries - XB Monitor Parts 1 and 2
 
-- [**Documentation Part 1**](https://github.com/user-attachments/files/29340663/XB.Monitor.Part.1-.Cary.Humphries.pdf)
+- [**Documentation Part 1**](https://github.com/user-attachments/files/30239477/XB.Monitor.Part.1-.Cary.Humphries.pdf)
 - [**Documentation Part 2**](https://github.com/user-attachments/files/29340673/XB.Monitor.Part.2-.Cary.Humphries.pdf)
 - **Abstract**: The XbMonitor program is a software-based system created for the Xantrex” XW series of products. The Xantrex XW products are used to control renewable energy and backup power systems. These Xantrex XW products communicate with each other through a built-in controller area network called Xanbus. The XbMonitor program is designed to connect directly to the Xanbus network by using a simple USB connection and an Apox USB to CAN converter. When connected to the network the program is able to discover, monitor, and communicate with all attached devices from a single connection point while displaying almost real-time data in a user friendly graphical display. 
 
@@ -495,12 +495,12 @@
 
 ## Michael Wilcome - XNA Card Game 
 
-- [**Documentation**](https://github.com/user-attachments/files/29340749/XNA.Card.Game.-.Michael.Wilcome.pdf)
+- [**Documentation**](https://github.com/user-attachments/files/30239686/XNA.Card.Game.-.Michael.Wilcome.pdf)
 - **Abstract**: XNA Game Studio is an add-on for Visual Studio that allows programmers to create games in C#. It comes with a few basic methods which allow the programmer to efficiently set up a game the way they want to. 
 
 ## Yon Meyer - Y.M. Inc. 
 
-- [**Documentation**](https://github.com/user-attachments/files/29340769/Y.M.Inc.-.Yon.Meyer.pdf)
+- [**Documentation**](https://github.com/user-attachments/files/30239755/Y.M.Inc.-.Yon.Meyer.pdf)
 
 ## Eric Foster - Zipf's Law 
 
