@@ -314,8 +314,8 @@
 
 ## Chad Droze - Music Unlimited Parts 1 and 2
 
-- [**Documentation Part 1**](https://github.com/user-attachments/files/29304947/Music.Unlimited.-.Chad.Droze.Part.1.pdf)
-- [**Documentation Part 2**](https://github.com/user-attachments/files/29304965/Music.Unlimited.-.Chad.Droze.Part.2.pdf)
+- [**Documentation Part 1**](https://github.com/user-attachments/files/30231510/Music.Unlimited.-.Chad.Droze.Part.1.pdf)
+- [**Documentation Part 2**](https://github.com/user-attachments/files/30231526/Music.Unlimited.-.Chad.Droze.Part.2.pdf)
 - **Abstract**: A project to provide a quick and efficient way to create, manage, and track orders received for a Disc Jockey business. In addition, the system will allow users to compuerize the music and other equipment used for the business, which will give total knowledge of and about a user's inventory. 
 
 ## Jason Anderson - OG Sportswear 
