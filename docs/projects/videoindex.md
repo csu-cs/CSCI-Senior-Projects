@@ -3,83 +3,83 @@
 
 # 2019-2020
 
-## Derrick Kamphaus 
+## Derrick Kamphaus - Web Browser
 - [**Presentation**](https://www.youtube.com/watch?v=RTh8H4tLyJY) 
 - **Abstract**: Web Browser is an educational experience to enrich children's learning, and is a fully playable video game with 3 levels. It is an educational game that asks questions, and allows educational providers to provide meaningful content.
 
-## Xavier Pough 
+## Xavier Pough - Raspberrian Controller
 - [**Presentation**](https://www.youtube.com/watch?v=aNvDIUxUDJY)
 
-## Ryan McHugh 
+## Ryan McHugh - Carberry Pi
 - [**Presentation**](https://www.youtube.com/watch?v=uMYgwFoqXz0)
 
-## Hailey Noble 
+## Hailey Noble - Foreign Flashdrives 
 - [**Presentation**](https://www.youtube.com/watch?v=w1zue9Zt_KY)
 
-## Chris McClure 
+## Chris McClure - Horton School of Music 360 VR Concert
 - [**Presentation**](https://www.youtube.com/watch?v=_Gq3XU1dcSs)
 - [**Demonstration**](https://www.youtube.com/watch?v=0fnMNNRZQo8)
 
-## Leroy Henry 
+## Leroy Henry - Wizard's Rise: Quest for the Last Staff
 - [**Presentation**](https://www.youtube.com/watch?v=a3jIeeM9ihM)
 - [**Demonstration**](https://www.youtube.com/watch?v=hw79rHAwNJA)
 
-## Jordan Rodecap
+## Jordan Rodecap - Potatoes are Better 
 - [**Presentation**](https://www.youtube.com/watch?v=o7B0bun1BYI)
 - [**Demonstration**](https://www.youtube.com/watch?v=nld-Ff0l_50)
 
-## Samuel Manos
+## Samuel Manos - Flight Simulator 
 - [**Presentation**](https://www.youtube.com/watch?v=xk-hK6hyCu8)
 
-## Peter Kaufman 
+## Peter Kaufman - Java Database Difference Checker 
 - [**Presentation**](https://www.youtube.com/watch?v=cHlfI1EPRHo)
 
-## Mickey Friesen 
+## Mickey Friesen - College Football Ranker 
 - [**Presentation**](https://www.youtube.com/watch?v=GVJkeqkVcBI)
 
-## Ryan Spiecha 
+## Ryan Spiecha - Time Crunch 
 - [**Presentation**](https://www.youtube.com/watch?v=oJjL7Ghs8Mw) 
 
-## Eli Brodskii
+## Eli Brodskii - Chess AI 
 - [**Presentation**](https://www.youtube.com/watch?v=7qFVDk59lk4)
 
 
 # 2020-2021
 
 
-## Andrew Thompson 
+## Andrew Thompson - Ballot Audit 
 - [**Presentation**](https://www.youtube.com/watch?v=QkiDIScS3fY)
 - [**Demonstration**](https://www.youtube.com/watch?v=GZLkLe62ajM)
   
-## Mark Neitzel 
+## Mark Neitzel - Video Slideshow Presentation Player 
 - [**Presentation**](https://www.youtube.com/watch?v=40NoipSdtGA) 
 
-## Taylor Perry 
+## Taylor Perry - Student RFID Cards 
 - [**Presentation**](https://www.youtube.com/watch?v=tYfytJ6jHTg)
 
-## Holland Whitley
+## Holland Whitley - Enigma Machine Project 
 - [**Presentation**](https://www.youtube.com/watch?v=rY5Tc8zXBIs)
 
-## Ryan Hinson 
+## Ryan Hinson - Cyber Forensics 
 - [**Presentation**](https://www.youtube.com/watch?v=UAMt2yQwnow)
 
-## Cameron Cross 
+## Cameron Cross - Smart Campus 
 - [**Presentation**](https://www.youtube.com/watch?v=c7XSsw4244I)
 
-## Trevor Abel
+## Trevor Abel - Text File Encryptor 
 - [**Presentation**](https://www.youtube.com/watch?v=W2AUN4eaBvE)
 
-## Brian Porter 
+## Brian Porter - War of Kings 
 - [**Presentation**](https://www.youtube.com/watch?v=Z0TU96TISpw)
 
-## Julia George 
+## Julia George - E-commerce Bookstore 
 - [**Presentation**](https://www.youtube.com/watch?v=AQTQDeYwaGs)
 - [**Demonstration**](https://www.youtube.com/watch?v=vpmO7alWHCg)
 
-## Matthew Yanzer 
+## Matthew Yanzer - Late Night Snack 
 - [**Presentation**](https://www.youtube.com/watch?v=cVChsLkk2IY) 
 
-## Brian Hinkle 
+## Brian Hinkle - Multiplayer Web Framework 
 - [**Presentation**](https://www.youtube.com/watch?v=rdcWTP2WhZU)
 
 ## Samuel Wade 
@@ -90,41 +90,41 @@
 # 2021-2022
 
 
-## Blake Collins
+## Blake Collins - Arcade Escape Room 
 - [**Presentation**](https://www.youtube.com/watch?v=alQped_ihgM) 
 
-## Amber Ramsey
+## Amber Ramsey - Inquest Testing System 
 - [**Presentation**](https://www.youtube.com/watch?v=nA71LWnnY0Q)
 
-## Brian Diaz 
+## Brian Diaz - Photo Castle 
 - [**Presentation**](https://www.youtube.com/watch?v=WRKQhjDICok)
 
-## Carlos Ocasio 
+## Carlos Ocasio - Password Manager 
 - [**Presentation**](https://www.youtube.com/watch?v=mKyyUvq8q0E)
 
-## Cody Cain 
+## Cody Cain - Attendance Tracker 
 - [**Presentation**](https://www.youtube.com/watch?v=1J8Cx20LsZA)
 
-## Ethan Powell 
+## Ethan Powell - D&D Utilities 
 - [**Presentation**](https://www.youtube.com/watch?v=0lFoQEpP-G4)
   
-## Hayden Ackerman 
+## Hayden Ackerman - NMAP GUI 
 - [**Presentation**](https://www.youtube.com/watch?v=nYIhhu5WVPo)
 
-## Nathan Satterfield
+## Nathan Satterfield - Cyber Range 
 - [**Presentation**](https://www.youtube.com/watch?v=YGJEKMoe7Yg)
 
-## Taylor Singleton 
+## Taylor Singleton - Loot Goblin
 - [**Presentation**](https://www.youtube.com/watch?v=6duShHIbQ_o) 
 
-## Thomas Ramsey 
+## Thomas Ramsey - Ever-changing RPG
 - [**Presentation**](https://www.youtube.com/watch?v=H5-lMpRhVyA)
 
-## Tyler Poor
+## Tyler Poor - Exploits 
 - [**Presentation**](https://www.youtube.com/watch?v=fi-wFngQGYk)
 
 
-# 2023
+# 2023 - 2024
 
 # 2025 - 2026
 
