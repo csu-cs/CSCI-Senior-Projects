@@ -4,17 +4,17 @@
 ## 2019-2020
 
 ## Derrick Kamphaus 
-- [**Video**](https://www.youtube.com/watch?v=RTh8H4tLyJY) 
+- [**Presentation**](https://www.youtube.com/watch?v=RTh8H4tLyJY) 
 - **Abstract**: Web Browser is an educational experience to enrich children's learning, and is a fully playable video game with 3 levels. It is an educational game that asks questions, and allows educational providers to provide meaningful content.
 
 ## Xavier Pough 
-- [**Video**](https://www.youtube.com/watch?v=aNvDIUxUDJY)
+- [**Presentation**](https://www.youtube.com/watch?v=aNvDIUxUDJY)
 
 ## Ryan McHugh 
-- [**Video**](https://www.youtube.com/watch?v=uMYgwFoqXz0)
+- [**Presentation**](https://www.youtube.com/watch?v=uMYgwFoqXz0)
 
 ## Hailey Noble 
-- [**Video**](https://www.youtube.com/watch?v=w1zue9Zt_KY)
+- [**Presentation**](https://www.youtube.com/watch?v=w1zue9Zt_KY)
 
 ## Chris McClure 
 - [**Presentation**](https://www.youtube.com/watch?v=_Gq3XU1dcSs)
@@ -23,6 +23,108 @@
 ## Leroy Henry 
 - [**Presentation**](https://www.youtube.com/watch?v=a3jIeeM9ihM)
 - [**Demonstration**](https://www.youtube.com/watch?v=hw79rHAwNJA)
+
+## Jordan Rodecap
+- [**Presentation**](https://www.youtube.com/watch?v=o7B0bun1BYI)
+- [**Demonstration**](https://www.youtube.com/watch?v=nld-Ff0l_50)
+
+## Samuel Manos
+- [**Presentation**](https://www.youtube.com/watch?v=xk-hK6hyCu8)
+
+## Peter Kaufman 
+- [**Presentation**](https://www.youtube.com/watch?v=cHlfI1EPRHo)
+
+## Mickey Friesen 
+- [**Presentation**](https://www.youtube.com/watch?v=GVJkeqkVcBI)
+
+## Ryan Spiecha 
+- [**Presentation**](https://www.youtube.com/watch?v=oJjL7Ghs8Mw) 
+
+## Eli Brodskii
+- [**Presentation**](https://www.youtube.com/watch?v=7qFVDk59lk4)
+
+
+## 2020-2021
+
+
+## Andrew Thompson 
+- [**Presentation**](https://www.youtube.com/watch?v=QkiDIScS3fY)
+- [**Demonstration**](https://www.youtube.com/watch?v=GZLkLe62ajM)
+  
+## Mark Neitzel 
+- [**Presentation**](https://www.youtube.com/watch?v=40NoipSdtGA) 
+
+## Taylor Perry 
+- [**Presentation**](https://www.youtube.com/watch?v=tYfytJ6jHTg)
+
+## Holland Whitley
+- [**Presentation**](https://www.youtube.com/watch?v=rY5Tc8zXBIs)
+
+## Ryan Hinson 
+- [**Presentation**](https://www.youtube.com/watch?v=UAMt2yQwnow)
+
+## Cameron Cross 
+- [**Presentation**](https://www.youtube.com/watch?v=c7XSsw4244I)
+
+## Trevor Abel
+- [**Presentation**](https://www.youtube.com/watch?v=W2AUN4eaBvE)
+
+## Brian Porter 
+- [**Presentation**](https://www.youtube.com/watch?v=Z0TU96TISpw)
+
+## Julia George 
+- [**Presentation**](https://www.youtube.com/watch?v=AQTQDeYwaGs)
+- [**Demonstration**](https://www.youtube.com/watch?v=vpmO7alWHCg)
+
+## Matthew Yanzer 
+- [**Presentation**](https://www.youtube.com/watch?v=cVChsLkk2IY) 
+
+## Brian Hinkle 
+- [**Presentation**](https://www.youtube.com/watch?v=rdcWTP2WhZU)
+
+## Samuel Wade 
+- [**Presentation**](https://www.youtube.com/watch?v=hwxNEYJRuEU)
+
+
+
+## 2021-2022
+
+
+## Blake Collins
+- [**Presentation**](https://www.youtube.com/watch?v=alQped_ihgM) 
+
+## Amber Ramsey
+- [**Presentation**](https://www.youtube.com/watch?v=nA71LWnnY0Q)
+
+## Brian Diaz 
+- [**Presentation**](https://www.youtube.com/watch?v=WRKQhjDICok)
+
+## Carlos Ocasio 
+- [**Presentation**](https://www.youtube.com/watch?v=mKyyUvq8q0E)
+
+## Cody Cain 
+- [**Presentation**](https://www.youtube.com/watch?v=1J8Cx20LsZA)
+
+## Ethan Powell 
+- [**Presentation**](https://www.youtube.com/watch?v=0lFoQEpP-G4)
+  
+## Hayden Ackerman 
+- [**Presentation**](https://www.youtube.com/watch?v=nYIhhu5WVPo)
+
+## Nathan Satterfield
+- [**Presentation**](https://www.youtube.com/watch?v=YGJEKMoe7Yg)
+
+## Taylor Singleton 
+- [**Presentation**](https://www.youtube.com/watch?v=6duShHIbQ_o) 
+
+## Thomas Ramsey 
+- [**Presentation**](https://www.youtube.com/watch?v=H5-lMpRhVyA)
+
+## Tyler Poor
+- [**Presentation**](https://www.youtube.com/watch?v=fi-wFngQGYk)
+
+
+## 
 
 ## 2025 - 2026
 
