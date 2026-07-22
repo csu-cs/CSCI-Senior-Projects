@@ -126,6 +126,60 @@
 
 # 2023 - 2024
 
+
+## Jonathan Flum - Cognitive Trainer 
+- [**Presentation**](https://www.youtube.com/watch?v=fi5jVyWz0BA)
+
+## Walker Poston - Pi Tag
+- [**Presentation**](https://www.youtube.com/watch?v=yZNp5WMwrgM)
+
+## Michael Nicholson - FLIVR: Foreign Language Immersion with Virtual Reality 
+[**Presentation**](https://www.youtube.com/watch?v=JAQPJRwIzZA)
+
+## Ricardo Harris - Prometheus 
+- [**Presentation**](https://www.youtube.com/watch?v=PxdCKYLUaLY)
+
+## James Caleb Way - Project Tarnished: Game 
+- [**Presentation**](https://www.youtube.com/watch?v=Vhf0LplE_ng)
+
+## Karina Quick - Shopping Website
+- [**Presentation**](https://www.youtube.com/watch?v=nmHC0-GG7NU)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 2025 - 2026
 
 
