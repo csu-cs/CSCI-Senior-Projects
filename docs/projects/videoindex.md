@@ -145,25 +145,27 @@
 ## Karina Quick - Shopping Website
 - [**Presentation**](https://www.youtube.com/watch?v=nmHC0-GG7NU)
 
+## Robert Squires - OBD-II Buddy
+- [**Presentation**](https://www.youtube.com/watch?v=GVdUIomsMAc)
 
+## Matthew Weigel - FlickFix
+- [**Presentation**](https://www.youtube.com/watch?v=ZF9CVOdvVkU)
 
+**SPRING**
+## Logan Ferguson - Local Password Manager 
+- [**Presentation**](https://www.youtube.com/watch?v=PQ4q7L1SsXo) 
 
+## Adam Thiemann - A Solemn Evolution 
+- [**Presentation**](https://www.youtube.com/watch?v=rkFGufxRGxs)
 
+## Alex Thompson - Easy Image File Converter 
+- [**Presentation**](https://www.youtube.com/watch?v=cpwKnj70Ung)
 
+## Bryce Furrow - Bible Verse Vista 
+- [**Presentation**](https://www.youtube.com/watch?v=9wmNnMbGS-o)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Chamberlain L. Gibson - Rivers Rise E-Commerce Website
+- [**Presentation**](https://www.youtube.com/watch?v=j6T0I67MfOc) 
 
 
 
