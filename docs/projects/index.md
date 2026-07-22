@@ -1,5 +1,5 @@
 # Index of Projects 
-These projects are pre-2020. For projects that are 2020 and beyond, click [**here.**](https://github.com/csu-cs/CSCI-Senior-Projects/blob/main/docs/projects/videoindex.md)
+
 
 ## Matthew Wempe - 2D RPG Video Game
 
