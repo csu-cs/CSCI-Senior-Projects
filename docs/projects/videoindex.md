@@ -1,7 +1,7 @@
 # Video Index After 2020
 
 
-## 2019-2020
+# 2019-2020
 
 ## Derrick Kamphaus 
 - [**Presentation**](https://www.youtube.com/watch?v=RTh8H4tLyJY) 
@@ -44,7 +44,7 @@
 - [**Presentation**](https://www.youtube.com/watch?v=7qFVDk59lk4)
 
 
-## 2020-2021
+# 2020-2021
 
 
 ## Andrew Thompson 
@@ -87,7 +87,7 @@
 
 
 
-## 2021-2022
+# 2021-2022
 
 
 ## Blake Collins
@@ -124,9 +124,9 @@
 - [**Presentation**](https://www.youtube.com/watch?v=fi-wFngQGYk)
 
 
-## 
+# 2023
 
-## 2025 - 2026
+# 2025 - 2026
 
 
 ## Brayden Kirkland - Puzzleheart: A Video Game for Thinkers 
