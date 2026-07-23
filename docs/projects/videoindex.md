@@ -200,6 +200,7 @@
 
 ## Riley Osborne - Sports Card Pricing and OCR
 - [**Presentation**](https://www.youtube.com/watch?v=i1WcyzbJpyM)
+- [**Documentation**](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FRileyOsborne26%2FCSU-Senior-Project%2Frefs%2Fheads%2Fmaster%2Fdocs%2FDefense_Documentation.docx&wdOrigin=BROWSELINK)
 
 ## Malik Stewart - E-Commerce Website with Admin Dashboard
 - [**Presentation**](https://www.youtube.com/watch?v=Kf6zlEGFWOE)
@@ -207,7 +208,7 @@
 ## Dylan Kelly - Vulnerability Scanner 
 - [**Presentation**](https://www.youtube.com/watch?v=QvCJNJEUcqU)
 - [**Documentation**](https://dylanakelly.github.io/pdf/SeniorProjectDefenseDocumentation-DylanKelly.pdf)
-
+- **Abstract**: This project presents the design and implementation of a Windows Operating System and Top 20 Applications Vulnerability Scanner developed in Python to help users identify outdated software that may expose their systems to known security vulnerabilities. The application automatically detects the installed Windows version and the versions of the twenty most commonly used Windows applications, retrieves corresponding vulnerability information from CVE Details through web scraping, and emails a detailed vulnerability report to the user. A graphical user interface built with Tkinter provides an accessible experience for users with varying levels of technical expertise, while multithreading improves application responsiveness during scans. The project incorporated manual and user acceptance testing to evaluate functionality, usability, and reliability, with results demonstrating successful vulnerability detection and positive user feedback. Future enhancements include database integration for secure data storage, performance optimizations, automated vulnerability data retrieval, and improved scanning efficiency, further strengthening the application's effectiveness as a lightweight cybersecurity tool.
 
 
 
