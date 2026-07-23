@@ -184,19 +184,23 @@
 
 
 ## Justin Pike - HOA Management System 
-- [**Presentation**](https://www.youtube.com/watch?v=Vy4l8h6At-g) 
+- [**Presentation**](https://www.youtube.com/watch?v=Vy4l8h6At-g)
+- [**Documentation**](https://github.com/Sanchez-RickC137/hoa_management_system/tree/main/documentation)
 
 ## Jessica Taylor - Live Better 
 - [**Presentation**](https://www.youtube.com/watch?v=HEcwOl72eUk)
+- [**Documentation**](https://github.com/JessicaTaylor7/CSU-Senior-Project/blob/master/docs/Documentation.md)
 
 ## Alan Macklin - A Guided Walkthrough of Linux
 - [**Presentation**](https://www.youtube.com/watch?v=-U-7PQOyTBc)
+- [**Documentation**](https://github.com/ATM2100/GuidedWalkThroughOfLinux/tree/main/resources)
 
 ## Jeff Wedding - Multiplayer Checkers Game 
 - [**Presentation**](https://www.youtube.com/watch?v=SKpYygavD0E)
 
 ## Jaye Engelhardt - Children Ministry Check-in System
 - [**Presentation**](https://www.youtube.com/watch?v=MjaZ15N1MMc)
+- [**Documentation**](https://github.com/Packerfan81/Church/tree/main/Senior%20Project%20Defense%20Documention)
 
 ## Riley Osborne - Sports Card Pricing and OCR
 - [**Presentation**](https://www.youtube.com/watch?v=i1WcyzbJpyM)
