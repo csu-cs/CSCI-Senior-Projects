@@ -167,17 +167,17 @@
 ## Chamberlain L. Gibson - Rivers Rise E-Commerce Website
 - [**Presentation**](https://www.youtube.com/watch?v=j6T0I67MfOc) 
 
+## Nathan Mixon - Custom PC Builder 
+- [**Presentation**](https://www.youtube.com/watch?v=NnOS4VeH4dc)
 
+## Alena Durel - Adventure-Style Educational Game 
+- [**Presentation**](https://www.youtube.com/watch?v=ADz2LrYAM2Q)
 
+## Tara Shipes - Motivating Personal Health via Virtual Pets
+- [**Presentation**](https://www.youtube.com/watch?v=69GGFB47LPU)
 
-
-
-
-
-
-
-
-
+## Edward Phillips - Best Beach Rentals 
+- [**Presentation**](https://www.youtube.com/watch?v=jt93zCtFpzU)
 
 
 
