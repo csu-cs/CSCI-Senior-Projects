@@ -180,6 +180,37 @@
 - [**Presentation**](https://www.youtube.com/watch?v=jt93zCtFpzU)
 
 
+# 2024-2025 
+
+
+## Justin Pike - HOA Management System 
+- [**Presentation**](https://www.youtube.com/watch?v=Vy4l8h6At-g) 
+
+## Jessica Taylor - Live Better 
+- [**Presentation**](https://www.youtube.com/watch?v=HEcwOl72eUk)
+
+## Alan Macklin - A Guided Walkthrough of Linux
+- [**Presentation**](https://www.youtube.com/watch?v=-U-7PQOyTBc)
+
+## Jeff Wedding - Multiplayer Checkers Game 
+- [**Presentation**](https://www.youtube.com/watch?v=SKpYygavD0E)
+
+## Jaye Engelhardt - Children Ministry Check-in System
+- [**Presentation**](https://www.youtube.com/watch?v=MjaZ15N1MMc)
+
+## Riley Osborne - Sports Card Pricing and OCR
+- [**Presentation**](https://www.youtube.com/watch?v=i1WcyzbJpyM)
+
+## Malik Stewart - E-Commerce Website with Admin Dashboard
+- [**Presentation**](https://www.youtube.com/watch?v=Kf6zlEGFWOE)
+
+## Dylan Kelly - Vulnerability Scanner 
+- [**Presentation**](https://www.youtube.com/watch?v=QvCJNJEUcqU)
+- [**Documentation**](https://dylanakelly.github.io/pdf/SeniorProjectDefenseDocumentation-DylanKelly.pdf)
+
+
+
+
 
 
 # 2025 - 2026
