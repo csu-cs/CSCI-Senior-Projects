@@ -1,4 +1,6 @@
-![CSU Logo](/images/csu_logo.svg)
+![Charleston Southern University](/images/csu_logo.svg){.light-only}
+
+![Charleston Southern University](/images/csu_logo-dark.svg){.dark-only}
 
 Syllabus | CSCI 497 Senior Project Design
 =========================================
