@@ -1,4 +1,4 @@
-![CSU Logo](../images/CSU_logo.svg)
+![CSU Logo](/images/CSU_logo.svg)
 
 Syllabus | CSCI 498 Senior Project Construction
 ===============================================
