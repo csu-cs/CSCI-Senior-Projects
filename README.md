@@ -1,8 +1,8 @@
 # Directory of Computer Science and Cybersecurity Senior Projects at Charleston Southern University
 
-[![Deploy](https://github.com/csu-cs/CSCI-Senior-Projects/workflows/Deploy/badge.svg)](https://github.com/csu-cs/CSCI-Senior-Projects/actions/)
+[![Deploy](https://github.com/csu-cs/CSCI-Senior-Projects/actions/workflows/deploy.yml/badge.svg)](https://github.com/csu-cs/CSCI-Senior-Projects/actions/workflows/deploy.yml)
 
-[Deployed CSCI 315 Site](https://csu-cs.github.io/CSCI-Senior-Projects/)
+[Deployed Senior Project Site](https://csu-cs.github.io/CSCI-Senior-Projects/)
 
 ---
 
