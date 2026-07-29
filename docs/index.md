@@ -10,8 +10,8 @@ hero:
     alt: CSU
   actions:
     - theme: brand
-      text: View Syllabus
-      link: https://github.com/csu-cs/CSU-Senior-Project/tree/master/references
+      text: View Syllabi
+      link: /syllabi
     - theme: alt
       text: Browse Projects
       link: /projects

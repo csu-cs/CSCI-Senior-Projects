@@ -15,7 +15,10 @@ export default {
 	base: '/CSCI-Senior-Projects/',
 
 	head: [
-		// ToDo: Add Favicon
+		// Add Favicon
+		[ 'link', { rel: 'icon', type: 'image/png', href: '/CSCI-Senior-Projects/favicon-32x32.png', sizes: '32x32'} ],
+		[ 'link', { rel: 'icon', type: 'image/png', href: '/CSCI-Senior-Projects/favicon-16x16.png', sizes: '16x16'} ],
+		[ 'link', { rel: 'apple-touch-icon', href: '/CSCI-Senior-Projects/apple-touch-icon.png', sizes: '180x180'} ],
 		[ 'link', { rel: 'manifest', href: '/CSCI-Senior-Projects/site.webmanifest'} ],
 	],
 
@@ -41,12 +44,13 @@ export default {
 
 		nav: [
 			{ text: 'Home', link: '/' },
-			{ text: 'Syllabus', link: 'https://github.com/csu-cs/CSU-Senior-Project/tree/master/references' },
+			{ text: 'Syllabi', link: '/syllabi' },
 			{ text: 'Integrity', link: '/integrity' },
 			{ text: 'Browse Projects', link: '/projects/' }
 		],
 		sidebar: {
 			'/projects/': sidebarNotes(),
+			'/syllabi/': sidebarNotes()
 		},
 
 		socialLinks: [
@@ -73,5 +77,28 @@ export default {
 
 function sidebarNotes() {
 	return [
+		{
+			text: 'Syllabi',
+			collapsed: true,
+			items: [
+				{ text: 'CSCI 497', link: '/syllabi/Syllabus_497' },
+				{ text: 'CSCI 498', link: '/syllabi/Syllabus_498' },
+				{ text: 'CSCI 499', link: '/syllabi/Syllabus_499' }
+			]
+		},
+		{
+			text: 'Browse Projects',
+			collapsed: true,
+			items: [
+				{ text: '2025 – 2026', link: '/projects/2025' },
+				{ text: '2024 – 2025', link: '/projects/2024' },
+				{ text: '2023 – 2024', link: '/projects/2023' },
+				{ text: '2022 – 2023', link: '/projects/2022' },
+				{ text: '2021 – 2022', link: '/projects/2021' },
+				{ text: '2020 – 2021', link: '/projects/2020' },
+				{ text: '2019 – 2020', link: '/projects/2019' },
+				{ text: '2018 & earlier', link: '/projects/pre-2019' }
+			]
+		},
 	]
 }
