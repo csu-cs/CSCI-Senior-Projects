@@ -49,7 +49,7 @@ The student will complete work according to the schedule refined in CSCI 498. Sc
 
 ### Final Documentation Requirements
 
-The final report must be a **new, comprehensive, and complete document** that reflects the final state of the senior project. Students must not simply reuse or make minor extensions to materials developed during the proposal phase (CSCI 497). All sections (including background, requirements, design, implementation, and test plans) must be thoroughly updated and expanded to detail the actual construction and evaluation of the system.
+The final report must be a **new, comprehensive, and complete document** that reflects the final state of the senior project. Students must not simply reuse or make minor extensions to materials developed during the proposal phase (CSCI 497). All sections (including background, requirements, design, implementation, and test plans) must be thoroughly updated and expanded to detail the actual construction and evaluation of the system. The final report must be posted within the student's senior portfolio website (created in CSCI 496) as a fifth project (above the other projects).
 
 ::: warning Important Deadlines
 To allow sufficient time for faculty review and feedback, **the complete final report** must be submitted to the project advisor **at least two weeks before the scheduled final presentation**. Late submissions will adversely affect the final grade and may result in the postponement of the defense to the next semester.
