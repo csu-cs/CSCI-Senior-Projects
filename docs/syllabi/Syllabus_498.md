@@ -11,7 +11,7 @@ Department: Computer Science
 Course Name: Senior Project Construction  
 Course Number: CSCI 498  
 Credit Hours: 1  
-Approved Major Credit: BS in Computer Science, BS in Cybersecurity, BA in Computer and Information Sciences, BT in Computer Science, and BT in Cybersecurity  
+Approved Major Credit: BS in Computer Science, BS in Cybersecurity, and BA in Applied Computing  
 LAC Requirement: None  
 Prerequisites: CSCI 497
 
